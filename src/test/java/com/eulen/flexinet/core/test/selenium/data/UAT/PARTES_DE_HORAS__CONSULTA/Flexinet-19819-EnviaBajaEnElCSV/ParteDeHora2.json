@@ -1,0 +1,53 @@
+{
+  "PARTES_DE_HORAS__CONSULTA": {
+    "empresa": "STEF IBERIA, SAU",
+    "mes": "Diciembre",
+    "anio": "2023",
+    "nombre": "JUAN ANTONIO",
+    "primerApellido": "ÁLVAREZ",
+    "segundoApellido": "DELGADO",
+    "lkp_nif": "16282821V",
+    "DIALOG_SELECCIONDECOLABORADORES" : {
+      "TABLE" : {
+        "qbe_nombreYApellidos" : "ÁLVAREZ DELGADO, JUAN ANTONIO",
+        "qbe_direccion" : "C/FEDERICO BARAIBAR, 28, -, (1003), VITORIA GASTEIZ, ÁLAVA, ESPAÑA",
+        "Nombre y Apellidos" : "ÁLVAREZ DELGADO, JUAN ANTONIO",
+        "Dirección" : "C/FEDERICO BARAIBAR, 28, -, (1003), VITORIA GASTEIZ, ÁLAVA, ESPAÑA",
+        "Detalle" : ""
+      }
+    },
+    "chk_aNivelNacional": "true",
+    "TABLE": {
+      "qbe_nParte": "17505771",
+      "qbe_duracion": "Mensual",
+      "qbe_formato": "Global",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "9492093",
+      "qbe_nif": "16282821V",
+      "qbe_colaborador": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+      "qbe_empresa": "STEF IBERIA, SAU",
+      "qbe_mes": "Diciembre 2023",
+      "qbe_diaDeInicio": "1",
+      "qbe_diaDeFin": "31",
+      "qbe_parteOriginal": "0",
+      "qbe_detalle": "",
+      "Nº Parte": "17505771",
+      "Duración": "Mensual",
+      "Formato": "Global",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "9492093",
+      "NIF": "16282821V",
+      "Colaborador": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+      "Empresa": "STEF IBERIA, SAU",
+      "Mes": "Diciembre 2023",
+      "Día de Inicio": "1",
+      "Día de Fin": "31",
+      "Parte Original": "0",
+      "Detalle": ""
+    }
+  }
+}

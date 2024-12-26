@@ -1,0 +1,30 @@
+{
+  "GESTION_DE_ITS": {
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nif": "72681731Y",
+    "traspasado": "false",
+    "TABLE": {
+      "Fecha Inicio": "01/06/2022",
+      "Fecha Fin": "30/06/2022",
+      "Tipo IT": "ER",
+      "Descripción": ""
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE_COLABORADORES": {
+        "qbe_nombreYApellidos": "",
+        "qbe_direccion": "",
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "DIALOG_ALTAIT": {
+      "fechaInicioIT": "01/06/2022",
+      "fechaFinIT": "30/06/2022",
+      "tipoIT": "ERTE COVID 19 (ER)",
+      "mesFiltro": "Junio 2022"
+    }
+  }
+}

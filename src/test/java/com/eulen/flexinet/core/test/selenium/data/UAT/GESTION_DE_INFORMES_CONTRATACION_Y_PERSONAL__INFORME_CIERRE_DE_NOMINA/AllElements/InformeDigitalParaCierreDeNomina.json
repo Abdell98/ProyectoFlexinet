@@ -1,0 +1,173 @@
+{
+  "GESTION_DE_INFORMES__INFORME_DE_CONTRATACION_Y_PERSONAL__INFORME_DIGITAL_PARA_CIERRE_DE_NOMINA": {
+    "oficina": "451-FLX-TOLEDO",
+    "empresa": "",
+    "anio": "2024",
+    "mes": "Febrero",
+    "dniColaborador": "72681731Y",
+    "excluirGenerados": "true",
+    "DIALOGO_BUSQUEDADEEMPRESAS": {
+      "empresaClienteRazonSocial": "TOPOX DOX S.L.",
+      "TABLE": {
+        "qbe_empresa": "TOPOX DOX S.L.",
+        "qbe_nif": "B45664208",
+        "Empresa": "TOPOX DOX S.L.",
+        "N.I.F.": "B45664208"
+      }
+    },
+    "TABLE": {
+      "marcarDesmarcarTodosComoValidados": "true",
+      "qbe_validado": "",
+      "qbe_empresa": "TOPOX DOX S.L.",
+      "qbe_codCli": "90279",
+      "qbe_idCent": "23030",
+      "qbe_colaborador": "AGESTA LUSARRETA,MAITE",
+      "qbe_nif": "72681731Y",
+      "qbe_sec": "1",
+      "qbe_fInicio": "27/05/2022",
+      "qbe_fBaja": "",
+      "qbe_motivoBaja": "",
+      "qbe_undsSalarioNom": "168,00",
+      "qbe_undsSalarioFac": "168,00",
+      "qbe_undsSalarioTeorico": "168,00",
+      "qbe_undsExtra": "0,00",
+      "qbe_undsNocturnaNom": "0,00",
+      "qbe_undsNocturnaFac": "0,00",
+      "qbe_undsFestiva": "0,00",
+      "qbe_conceptosN": " (15) PLUS NOCTURNIDAD -> 10.62 ",
+      "qbe_conceptosF": " (15) PLUS NOCTURNIDAD -> 10.62 ",
+      "qbe_nSalario": "Hora",
+      "qbe_nImporte": "10,30",
+      "qbe_nsExtra": "12,88",
+      "qbe_nsNoct": "0,00",
+      "qbe_nsFest": "15,45",
+      "qbe_fSalario": "Hora",
+      "qbe_fImporte": "17,19",
+      "qbe_fpvpExtra": "21,50",
+      "qbe_fpvpNoct": "0,00",
+      "qbe_fpvpFest": "25,79",
+      "qbe_generado": "",
+      "qbe_fecGeneracion": "",
+      "qbe_contrato": "9492466",
+      "Marcar / Desmarcar Todos Como Validados": "",
+      "Validado": "",
+      "Empresa": "TOPOX DOX S.L.",
+      "Cod. Cli.": "90279",
+      "Id Cent.": "23030",
+      "Colaborador": "AGESTA LUSARRETA,MAITE",
+      "NIF": "72681731Y",
+      "Sec.": "1",
+      "F. Inicio": "27/05/2022",
+      "F. Baja": "",
+      "Motivo Baja": "",
+      "Unds. Salario Nom.": "168,00",
+      "Unds. Salario Fac.": "168,00",
+      "Unds. Salario Teórico": "168,00",
+      "Unds. Extra": "0,00",
+      "Unds. Nocturna Nom.": "0,00",
+      "Unds.Nocturna Fac": "0,00",
+      "Unds. Festiva": "0,00",
+      "Conceptos N.": " (15) PLUS NOCTURNIDAD -> 10.62 ",
+      "Conceptos F.": " (15) PLUS NOCTURNIDAD -> 10.62 ",
+      "N. Salario": "Hora",
+      "N. Importe": "10,30",
+      "N.S. Extra": "12,88",
+      "N.S. Noct.": "0,00",
+      "N.S. Fest.": "15,45",
+      "F. Salario": "Hora",
+      "F. Importe": "17,19",
+      "F.PVP Extra": "21,50",
+      "F.PVP Noct.": "0,00",
+      "F.PVP Fest.": "25,79",
+      "Generado": "",
+      "Fec. Generación": "",
+      "Contrato": "9492466"
+    },
+    "DIALOGO_DETALLEDELCOLABORADOR": {
+      "FORMULARIO": {
+        "nomina": "1,00",
+        "facturacion": "",
+        "extra": "",
+        "nomina2": "0,00",
+        "facturacion2": "",
+        "festiva": "",
+        "permisoRetribuido": "0,00",
+        "MODIFICACIONDEHORASEXTRA": {
+          "unidades": "10",
+          "total": "",
+          "importe": ""
+        },
+        "MODIFICACIONDEHORASFESTIVA": {
+          "unidades": "10",
+          "total": "",
+          "importe": ""
+        }
+      },
+      "SECCIONNOMINAS": {
+        "concepto": "",
+        "chk_diferencia": "",
+        "LISTADODECONCEPTOS": {
+          "FORMULARIO": {
+            "concepto": "19"
+          },
+          "TABLE": {
+            "qbe_conceptosDisponibles": "PLUS FESTIVO",
+            "qbe_cotizable": "",
+            "Conceptos Disponibles": "(19) PLUS FESTIVO",
+            "Cotizable": ""
+          },
+          "CONCEPTO": {
+            "unidades": "1",
+            "salarial": "1",
+            "totalSal": "",
+            "coeficiente": "",
+            "PVP": "",
+            "totalPVP": ""
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "*(15) PLUS NOCTURNIDAD",
+          "qbe_tipo": "COTIZABLE",
+          "qbe_devengo": "HORA",
+          "qbe_dif": "",
+          "qbe_unds": "0,00",
+          "qbe_importe": "10,62",
+          "qbe_total": "0,00",
+          "qbe_c": "1",
+          "Concepto": "",
+          "Tipo": "COTIZABLE",
+          "Devengo": "",
+          "Dif.": "",
+          "Unds.": "",
+          "Importe": "",
+          "Total": "",
+          "C": ""
+        }
+      },
+      "SECCIONFACTURAS": {
+        "concepto": "",
+        "TABLE": {
+          "qbe_concepto": "*(15) PLUS NOCTURNIDAD",
+          "qbe_coef": "1,669",
+          "qbe_devengo": "HORA",
+          "qbe_dif": "",
+          "qbe_unds": "0,00",
+          "qbe_precio": "17,72",
+          "qbe_total": "0,00",
+          "qbe_c": "1",
+          "Concepto": "",
+          "Coef.": "",
+          "Devengo": "",
+          "Dif.": "",
+          "Unds.": "",
+          "Precio": "",
+          "Total": "",
+          "C": ""
+        }
+      },
+      "BOTONES": {
+        "chk_validado": "true"
+      }
+    }
+  }
+}

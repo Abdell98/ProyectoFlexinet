@@ -1,0 +1,65 @@
+{
+  "PEDIDOS__CONSULTA": {
+    "nPedido": "604612062",
+    "estado": "",
+    "oferta": "",
+    "buscarANivelNacional": "",
+    "fechaDeInicioDesde": "",
+    "fechaDeIniciohasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinhasta": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "empresa": "",
+    "nCliente": "",
+    "TABLE_EMPRESA": {
+      "qbe_nPedido": "604612062",
+      "qbe_fechaDeInicio": "",
+      "qbe_fechaDeFin": "",
+      "qbe_empresa": "",
+      "qbe_estado": "",
+      "qbe_oferta": "",
+      "qbe_detalle": "",
+      "Nº Pedido": "604612062",
+      "Fecha de Inicio": "",
+      "Fecha de Fin": "",
+      "Empresa": "",
+      "Estado": "",
+      "Oferta": "",
+      "Detalle": ""
+    },
+    "TABLE_COLABORADOR": {
+      "qbe_colaborador": "",
+      "qbe_generado": "",
+      "qbe_anulado": "",
+      "qbe_sustituto": "",
+      "qbe_prorroga": "",
+      "Colaborador": "",
+      "Generado": "",
+      "Anulado": "",
+      "Sustituto": "",
+      "Prórroga": ""
+    },
+    "DIALOG_BUSQUEDADEEMPRESAS": {
+      "empresaClienteRazonSocial": "",
+      "TABLE": {
+        "qbe_empresa": "",
+        "qbe_nif": "",
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_direccion": "",
+        "qbe_detalle": "",
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    }
+  }
+}

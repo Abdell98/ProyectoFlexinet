@@ -1,0 +1,53 @@
+{
+  "PARTES_DE_HORAS__CONSULTA": {
+    "empresa": "TOPOX DOX S.L.",
+    "mes": "Enero",
+    "anio": "2024",
+    "nombre": "ARTURO",
+    "primerApellido": "SANCHEZ",
+    "segundoApellido": "GALAN",
+    "lkp_nif": "3904597W",
+    "DIALOG_SELECCIONDECOLABORADORES" : {
+      "TABLE" : {
+        "qbe_nombreYApellidos" : "SANCHEZ GALAN, ARTURO",
+        "qbe_direccion" : "C/RIO GUADARRAMA, 14, 3-A, (11111), TOLEDO, MADRID, ESPAÑA",
+        "Nombre y Apellidos" : "SANCHEZ GALAN, ARTURO",
+        "Dirección" : "C/RIO GUADARRAMA, 14, 3-A, (11111), TOLEDO, MADRID, ESPAÑA",
+        "Detalle" : ""
+      }
+    },
+    "chk_aNivelNacional": "true",
+    "TABLE": {
+      "qbe_nParte": "17505970",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "9492466",
+      "qbe_nif": "72681731Y",
+      "qbe_colaborador": "AGESTA LUSARRETA, MAITE",
+      "qbe_empresa": "TOPOX DOX S.L.",
+      "qbe_mes": "Enero 2024",
+      "qbe_diaDeInicio": "1",
+      "qbe_diaDeFin": "31",
+      "qbe_parteOriginal": "0",
+      "qbe_detalle": "",
+      "Nº Parte": "17505970",
+      "Duración": "Mensual",
+      "Formato": "Global",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "9492466",
+      "NIF": "72681731Y",
+      "Colaborador": "AGESTA LUSARRETA, MAITE",
+      "Empresa": "TOPOX DOX S.L.",
+      "Mes": "Enero 2024",
+      "Día de Inicio": "1",
+      "Día de Fin": "31",
+      "Parte Original": "0",
+      "Detalle": ""
+    }
+  }
+}

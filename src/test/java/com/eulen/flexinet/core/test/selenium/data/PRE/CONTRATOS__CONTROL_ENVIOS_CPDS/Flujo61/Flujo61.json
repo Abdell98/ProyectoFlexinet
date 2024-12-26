@@ -1,0 +1,66 @@
+{
+  "CONTRATOS__CONTROL_ENVIOS_CPDS": {
+    "empresa": "BEBECAR ESPAÑOLA S.L.",
+    "lkp_empresa": "RELLENAR",
+    "nombre": "LAURA",
+    "primerApellido": "LAZARO",
+    "segundoApellido": "PEREZ",
+    "nIF": "53423827W",
+    "lkp_nIF": "",
+    "filtrarEstado": "Generado",
+    "fechadeInicioDesde": "21/08/2024",
+    "fechadeInicioHasta": "21/08/2024",
+    "fechaDeFinDesde": "24/08/2024",
+    "fechaDeFinHasta": "24/08/2024",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "BEBECAR ESPAÑOLA S.L.",
+      "qbe_nIF": "B45293057",
+      "TABLE": {
+        "Empresa": "BEBECAR ESPAÑOLA S.L.",
+        "N.I.F.": "B45293057"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "LAZARO PEREZ, LAURA",
+      "qbe_direccion": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "LAZARO PEREZ, LAURA",
+        "Dirección": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "qbe_seleccionarContrato": "",
+      "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+      "qbe_nIF": "53423827W",
+      "qbe_sec": "66",
+      "qbe_nombre": "LAZARO PEREZ, LAURA",
+      "qbe_cpd_pro": "87/30/17/12/2024/45/01/71199/9056/B45293057/604612765/1",
+      "qbe_fecInicio": "19/12/2024",
+      "qbe_fecFin": "20/12/2024",
+      "qbe_estado": "",
+      "qbe_tipo": "",
+      "qbe_fecEnvio": "",
+      "qbe_fecRecep": "",
+
+      "Selección": "",
+      "Empresa": "BEBECAR ESPAÑOLA S.L.",
+      "NIF": "53423827W",
+      "Sec.": "66",
+      "Nombre": "LAZARO PEREZ, LAURA",
+      "Nº CPD / PRO": "87/30/17/12/2024/45/01/71199/9056/B45293057/604612765/1",
+      "Fecha Inicio": "19/12/2024",
+      "Fecha Fin": "20/12/2024",
+      "Estado": "",
+      "Tipo": "",
+      "Fecha Envío": "",
+      "Fecha Recep.": ""
+    },
+    "DIALOG_FECHAENVIO_CPDS_PRORROGAS": {
+      "fecha" : "%PLUS2%"
+    },
+    "DIALOG_FECHA_RECEPCION_CPDS_PRORROGAS": {
+      "fecha:" : "%PLUS2%"
+    }
+  }
+}

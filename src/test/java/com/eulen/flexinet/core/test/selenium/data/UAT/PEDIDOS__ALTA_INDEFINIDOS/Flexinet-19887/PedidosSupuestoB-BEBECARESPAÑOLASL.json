@@ -1,0 +1,213 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSDELPEDIDO": {
+      "nPedido": "",
+      "nPedidoAuxiliar": "123",
+      "tCont": "",
+      "clausulas": "",
+      "convenio": "CONVENIO SEPE",
+      "centrosDeTrabajo": "BEBECAR ESPAÑOLA S.L.",
+      "supuestoCelebracion": "LETRA (B) DEL APTDO. 2 DEL ART. 6 DE LA LEY 14/94",
+      "existeConvColectQuePermitaContratosDe6A12MesesEnUnPeriodoDe18": "",
+      "sustitucionDelTrabajador": "",
+      "motivoDeSustitucion": "",
+      "elLaTrabajadoraEstaEnPosesionDelTitulo": "",
+      "elLaTrabajadoraAcreditaConLaCertificacionPor": "",
+      "certificadoProfesional": "",
+      "desempleadoYMenor30Anos": "",
+      "desempleadoYMenor35AnosYConDiscapacSup30": "",
+      "menor30AnosRealizarPracticasNoLaboralesRD15432011": "",
+      "haberTerminadoLosEstudiosQueLeCapacitanParaLaPracticaObjetoDeDichoContratoConFecha": "",
+      "descripcion": "test %RANDOM_TEXT%",
+      "contratacionMenos100": "true",
+      "fechaPrevistaDeInicio": "%PLUS2%",
+      "fechaPrevistaDeFin": "%PLUS5%",
+      "rad_previsible": "true",
+      "rad_imprevisible": "false",
+      "avalNecesario": "true",
+      "importeDelAval": "0",
+      "observaciones": "test %RANDOM_KEY%",
+      "DIALOG_SELECCIONDEEMPRESA": {
+        "empresa": "BEBECAR ESPAÑOLA S.L.",
+        "nIF": "B45293057",
+        "nCliente": "71199",
+        "TABLE": {
+          "qbe_nif": "B45293057",
+          "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+          "qbe_nCliente": "71199",
+          "qbe_estado": "Registrada",
+          "qbe_formaDePago": "A 30 DÍAS",
+          "qbe_comportamientoDePago": "RECIBO DOMICILIADO",
+          "qbe_detalle": "",
+          "N.I.F.": "B45293057",
+          "Empresa": "BEBECAR ESPAÑOLA S.L.",
+          "Nº Cliente": "71199",
+          "Estado": "Registrada",
+          "Forma de Pago": "A 30 DÍAS",
+          "Comportamiento de pago": "RECIBO DOMICILIADO",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DATOSDEJORNADA": {
+      "departamento": "TEST",
+      "nCandidatosAsignados": "",
+      "nCandidatosSolicitados": "2",
+      "diasTrabajadosALaSemana": "5",
+      "horasNormalesDiarias": "6:00",
+      "periodoDePrueba": "15",
+      "porcentajeJornada": "80",
+      "diasDeTrabajoSemanales": "true,true,true,true,true,false,false",
+      "horario": "tarde y noche",
+      "aTurnos": "true",
+      "turno": "tarde"
+    },
+    "TAB_DATOSDETARIFA": {
+      "oferta": "",
+      "categoriaLaboral": "MOZO DE ALMACEN / MOZO ALMACEN / COMPLETA / GRUPO I / REGIMEN GENERAL / SINSELECCION / Indefinido A",
+      "categoriaProfesional": "",
+      "seleccioneDuracionYTipoDeJornadaDeLaTarifa": "",
+      "tarifaNormal": "false",
+      "tarifaIgualOInferior5Dias": "true",
+      "compPago": "",
+      "grupoCotizacion": "",
+      "ocupacion": "",
+      "brutoMensual": "",
+      "bonificacion": "",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "previsionarCompensacionFinContrato": ""
+    },
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "Juan Manuel",
+      "primerApellido": "Santos",
+      "segundoApellido": "Beneit",
+      "dNI": "12776524R",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "ALMONACID DE TOLEDO",
+        "elegirOcupacion": "INSTRUCTORES EN TECNOLOGIAS DE LA INFORMACION EN ENSEÑANZA NO REGLADA",
+        "seleccionarTitulacion": "INGENIERO TECNICO EN ORGANIZACION INDUSTRIAL",
+        "sexo": "Hombre"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+          "Dirección": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DESGLOSEDECATEGORIAPROFESIONAL": {
+      "TABLE": {
+        "qbe_salarioBruto": "",
+        "qbe_salarial": "",
+        "qbe_extrasal": "",
+        "qbe_plusSalarial": "",
+        "qbe_plusExtraSal": "",
+        "qbe_seguridadSocial": "",
+        "qbe_formacionComPartit": "",
+        "qbe_indemnizFinContrato": "",
+        "qbe_revisionCoste": "",
+        "qbe_medica": "",
+        "qbe_otros": "",
+        "qbe_costeTotal": "",
+        "qbe_margenBruto": "",
+        "qbe_pvp": "",
+        "Salario Bruto": "",
+        "Salarial": "10",
+        "Extrasal.": "12",
+        "Plus Salarial": "14",
+        "Plus Extrasal.": "12",
+        "Seguridad Social": "",
+        "Formación + Com. Parit.": "",
+        "Indemniz. Fin Contrato": "",
+        "Revisión Coste": "",
+        "Médica %": "",
+        "Otros": "",
+        "Coste Total": "",
+        "Margen Bruto %": "",
+        "P.V.P.": ""
+      }
+    },
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "%PLUS2%",
+      "rad_RealizandoElTraspasoDeLosContratos": "true",
+      "rad_SinTraspasarLosContratos": "false"
+    }
+  },
+  "PEDIDOS__CONSULTA": {
+    "nPedido": "604612067",
+    "estado": "",
+    "oferta": "",
+    "buscarANivelNacional": "",
+    "fechaDeInicioDesde": "",
+    "fechaDeIniciohasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinhasta": "",
+    "nombre": "Juan Manuel",
+    "primerApellido": "Santos",
+    "segundoApellido": "Beneit",
+    "nIF": "12776524R",
+    "empresa": "BEBECAR ESPAÑOLA S.L.",
+    "nCliente": "71199",
+    "TABLE_EMPRESA": {
+      "qbe_nPedido": "604612067",
+      "qbe_fechaDeInicio": "",
+      "qbe_fechaDeFin": "",
+      "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+      "qbe_estado": "",
+      "qbe_oferta": "",
+      "qbe_detalle": "",
+      "Nº Pedido": "604612067",
+      "Fecha de Inicio": "",
+      "Fecha de Fin": "",
+      "Empresa": "BEBECAR ESPAÑOLA S.L.",
+      "Estado": "",
+      "Oferta": "",
+      "Detalle": ""
+    },
+    "TABLE_COLABORADOR": {
+      "qbe_colaborador": "Juan Manuel Santos Beneit",
+      "qbe_generado": "",
+      "qbe_anulado": "",
+      "qbe_sustituto": "",
+      "qbe_prorroga": "",
+      "Colaborador": "Juan Manuel Santos Beneit",
+      "Generado": "",
+      "Anulado": "",
+      "Sustituto": "",
+      "Prórroga": "",
+      "Detalle": ""
+    },
+    "DIALOG_BUSQUEDADEEMPRESAS": {
+      "empresaClienteRazonSocial": "BEBECAR ESPAÑOLA S.L.",
+      "TABLE": {
+        "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+        "qbe_nif": "B45293057",
+        "Empresa": "BEBECAR ESPAÑOLA S.L.",
+        "N.I.F.": "B45293057"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE": {
+        "qbe_nombreYApellidos": "Santos Beneit, Juan Manuel",
+        "qbe_direccion": "",
+        "qbe_detalle": "",
+        "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    }
+  },
+  "PEDIDOS__MODIFICACION": {
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "%PLUS2%",
+      "rad_RealizandoElTraspasoDeLosContratos": "true",
+      "rad_SinTraspasarLosContratos": "false"
+    }
+  }
+}

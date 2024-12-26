@@ -1,0 +1,45 @@
+{
+  "FACTURACION__CONSULTA": {
+    "razonSocial": "TOPOX DOX S.L.",
+    "lkp_razonSocial": "RELLENAR",
+    "chk_busquedaANivelNacional": true,
+    "chk_preFacturadas": false,
+    "chk_facturas": true,
+    "chk_sPF": false,
+    "chk_abonosTotales": false,
+    "chk_abonosParciales": false,
+    "chk_validadasEmisionMasiva": false,
+    "chk_ultimoMes": false,
+    "chk_rangoFecha": true,
+    "facturas": "Todas",
+    "nDocumento": "",
+    "rangoFechaDesde": "05/01/2010",
+    "rangoFechaHasta": "05/05/2024",
+    "chk_facturasManuales": false,
+    "chk_marcarDesmarcarEmitir": "",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "TOPOX DOX S.L.",
+      "qbe_nIF": "B45664208",
+      "TABLE": {
+        "Empresa": "TOPOX DOX S.L.",
+        "N.I.F.": "B45664208"
+      }
+    },
+    "TABLE": {
+      "Provincia" : "TOLEDO",
+      "Oficina": "1078",
+      "Nombre Oficina": "451-FLX-TOLEDO",
+      "Id. Documento": "",
+      "Empresa": "TOPOX DOX S.L.",
+      "Tipo": "",
+      "Base Imponible": "",
+      "I.V.A / I.G.I.C": "",
+      "Importe Total": "",
+      "Num. Factura": "",
+      "Fecha Emisión / Prefac. / Abono": "",
+      "Estado": "",
+      "L. Venta": "",
+      "Indicador": ""
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "PARTES_DE_HORAS__ALTA": {
+    "empresa": "BEBECAR ESPAÑOLA S.L.",
+    "anio": "2024",
+    "mes": "Agosto",
+    "chk_diario": "",
+    "chk_parcial": "false",
+    "chk_especiales": "",
+    "chk_validado": "true",
+    "TABLE1": {
+      "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+      "Empresa": "BEBECAR ESPAÑOLA S.L."
+    },
+    "TABLE2": {
+      "qbe_idContrato": "9493332",
+      "qbe_colaborador": "AGESTA LUSARRETA, MAITE",
+      "qbe_diaDeInicio": "27/05/2022",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "qbe_personalizada": "0",
+      "Id. Contrato": "9493332",
+      "Colaborador": "AGESTA LUSARRETA, MAITE",
+      "Día de Inicio": "27/05/2022",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+      "SECTION_NOMINA": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "btn_AnadirColaboradorConceptoNomina": "",
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto" : "RELLENAR",
+          "chk_diferencia": "true",
+          "tipo": "NO COTIZABLE",
+          "devengo": "",
+          "unidades": "10",
+          "salario": "1000",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "concepto" : "PLUS",
+            "TABLE": {
+              "qbe_conceptosDisponibles": "PENOSIDAD",
+              "Conceptos Disponibles": "(7) PLUS PENOSIDAD"
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "(7) PLUS PENOSIDAD",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "UNIDAD",
+          "qbe_unidades": "10,00",
+          "qbe_salarioUnidad": "1000,00",
+          "qbe_coeficiente": "1,669",
+          "qbe_total": "10.000,00",
+          "Concepto": "(7) PLUS PENOSIDAD",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "UNIDAD",
+          "Unidades": "10,00",
+          "Salario/Unidad": "1000,00",
+          "Coeficiente": "1,669",
+          "Total": "10.000,00"
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+      "comment": "//TODO: @GIO Esta Opción Sólo está Habilitada para Contratos con Tarifa Bruto/Mes"
+    }
+  }
+}

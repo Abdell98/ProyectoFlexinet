@@ -1,0 +1,361 @@
+{
+  "PARTES_DE_HORAS__ALTA": {
+    "empresa": "",
+    "anio": "",
+    "mes": "",
+    "chk_diario": "",
+    "chk_parcial": "",
+    "chk_especiales": "",
+    "chk_validado": "",
+    "TABLE1": {
+      "qbe_empresa": "",
+      "Empresa": ""
+    },
+    "TABLE2": {
+      "qbe_idContrato": "",
+      "qbe_colaborador": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "",
+      "qbe_personalizada": "",
+      "Id. Contrato": "",
+      "Colaborador": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+      "SECTION_NOMINA": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasComplementarias": "",
+        "horasNocturnas": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "btn_AnadirColaboradorConceptoNomina": "",
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto": "",
+          "chk_diferencia": "",
+          "tipo": "",
+          "devengo": "",
+          "unidades": "",
+          "salario": "",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "concepto": "",
+            "TABLE": {
+              "qbe_conceptosDisponibles": "",
+              "Conceptos Disponibles": ""
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Total": ""
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+    }
+  },
+  "PARTES_DE_HORAS__CONSULTA": {
+    "empresa": "",
+    "mes": "",
+    "anio": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "lkp_nif": "",
+    "chk_aNivelNacional": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_direccion": "",
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "detalle": ""
+      }
+    },
+    "TABLE": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "",
+      "qbe_nif": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_mes": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_parteOriginal": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "",
+      "NIF": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Mes": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Parte Original": "",
+      "Detalle": ""
+    }
+  },
+  "PARTES_DE_HORAS__MODIFICACION": {
+    "empresa": "",
+    "anio": "",
+    "mes": "",
+    "chk_diario": "",
+    "chk_parcial": "",
+    "chk_especiales": "",
+    "chk_validado": "",
+    "TABLE1": {
+      "qbe_empresa": "",
+      "Empresa": ""
+    },
+    "TABLE2": {
+      "qbe_idContrato": "",
+      "qbe_colaborador": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "",
+      "qbe_personalizada": "",
+      "Id. Contrato": "",
+      "Colaborador": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+      "SECTION_NOMINA": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto": "",
+          "chk_diferencia": "",
+          "tipo": "",
+          "devengo": "",
+          "unidades": "",
+          "salario": "",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "TABLE": {
+              "qbe_conceptosDisponibles": "",
+              "Conceptos Disponibles": ""
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Total": ""
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+    }
+  },
+  "PARTES_DE_HORAS__TRASPASO": {
+    "empresa": "",
+    "mes": "",
+    "anio": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "lkp_nif": "",
+    "chk_partesSinTraspasar": "",
+    "chk_aNivelNacional": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_direccion": "",
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "detalle": ""
+      }
+    },
+    "TABLE1": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_idContrato": "",
+      "qbe_oficina": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_traspasado": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "ID.Contrato": "",
+      "Oficina": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Traspasado": "",
+      "Detalle": ""
+    },
+    "TABLE2": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_idContrato": "",
+      "qbe_oficina": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "ID.Contrato": "",
+      "Oficina": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Detalle": ""
+    }
+  }
+}

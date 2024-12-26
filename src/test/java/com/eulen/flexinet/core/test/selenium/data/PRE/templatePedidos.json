@@ -1,0 +1,259 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSDELPEDIDO": {
+      "nPedido": "",
+      "nPedidoAuxiliar": "",
+      "tCont": "",
+      "clausulas": "",
+      "convenio": "",
+      "centrosDeTrabajo": "",
+      "supuestoCelebracion": "",
+      "existeConvColectQuePermitaContratosDe6A12MesesEnUnPeriodoDe18": "",
+      "marqueSiexisteConvColectQuePermitaContratosDe6A12MesesEnUnPeriodoDe18" : "",
+      "sustitucionDelTrabajador": "",
+      "motivoDeSustitucion": "",
+      "elLaTrabajadoraEstaEnPosesionDelTitulo": "",
+      "elLaTrabajadoraAcreditaConLaCertificacionPor": "",
+      "certificadoProfesional": "",
+      "desempleadoYMenor30Anos": "",
+      "desempleadoYMenor35AnosYConDiscapacSup30": "",
+      "menor30AnosRealizarPracticasNoLaboralesRD15432011": "",
+      "haberTerminadoLosEstudiosQueLeCapacitanParaLaPracticaObjetoDeDichoContratoConFecha": "",
+      "descripcion": "",
+      "contratacionMenos100": "",
+      "fechaPrevistaDeInicio": "",
+      "fechaPrevistaDeFin": "",
+      "rad_previsible": "",
+      "rad_imprevisible": "",
+      "avalNecesario": "",
+      "importeDelAval": "",
+      "observaciones": "",
+      "DIALOG_SELECCIONDEEMPRESA": {
+        "empresa": "",
+        "nIF": "",
+        "nCliente": "",
+        "TABLE": {
+          "qbe_nif": "",
+          "qbe_empresa": "",
+          "qbe_nCliente": "",
+          "qbe_estado": "",
+          "qbe_formaDePago": "",
+          "qbe_comportamientoDePago": "",
+          "qbe_detalle": "",
+          "N.I.F.": "",
+          "Empresa": "",
+          "Nº Cliente": "",
+          "Estado": "",
+          "Forma de Pago": "",
+          "Comportamiento de pago": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DATOSDEJORNADA": {
+      "departamento": "",
+      "nCandidatosAsignados": "",
+      "nCandidatosSolicitados": "",
+      "diasTrabajadosALaSemana": "",
+      "horasNormalesDiarias": "",
+      "periodoDePrueba": "",
+      "porcentajeJornada": "",
+      "diasDeTrabajoSemanales": "",
+      "horario": "",
+      "aTurnos": "",
+      "turno": ""
+    },
+    "TAB_DATOSDETARIFA": {
+      "oferta": "",
+      "categoriaLaboral": "",
+      "categoriaProfesional": "",
+      "seleccioneDuracionYTipoDeJornadaDeLaTarifa": "",
+      "tarifaNormal": "",
+      "tarifaIgualOInferior5Dias": "",
+      "compPago": "",
+      "grupoCotizacion": "",
+      "ocupacion": "",
+      "brutoMensual": "",
+      "bonificacion": "",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "previsionarCompensacionFinContrato": ""
+    },
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "",
+      "primerApellido": "",
+      "segundoApellido": "",
+      "dNI": "",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "",
+        "elegirMpioResidencia": "",
+        "elegirOcupacion": "",
+        "seleccionarTitulacion": "",
+        "sexo": ""
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "",
+          "Dirección": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DESGLOSEDECATEGORIAPROFESIONAL": {
+      "TABLE": {
+        "qbe_salarioBruto": "",
+        "qbe_salarial": "",
+        "qbe_extrasal": "",
+        "qbe_plusSalarial": "",
+        "qbe_plusExtraSal": "",
+        "qbe_seguridadSocial": "",
+        "qbe_formacionComPartit": "",
+        "qbe_indemnizFinContrato": "",
+        "qbe_revisionCoste": "",
+        "qbe_medica": "",
+        "qbe_otros": "",
+        "qbe_costeTotal": "",
+        "qbe_margenBruto": "",
+        "qbe_pvp": "",
+        "Salario Bruto": "",
+        "Salarial": "",
+        "Extrasal.": "",
+        "Plus Salarial": "",
+        "Plus Extrasal.": "",
+        "Seguridad Social": "",
+        "Formación + Com. Parit.": "",
+        "Indemniz. Fin Contrato": "",
+        "Revisión Coste": "",
+        "Médica %": "",
+        "Otros": "",
+        "Coste Total": "",
+        "Margen Bruto %": "",
+        "P.V.P.": ""
+      }
+    },
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "",
+      "rad_RealizandoElTraspasoDeLosContratos": "",
+      "rad_SinTraspasarLosContratos": ""
+    }
+  },
+  "RIESGOS__GESTION_DE_PEDIDOS_BLOQUEADOS": {
+    "empresa": "",
+    "limiteDeRiesgoDesde": "",
+    "limiteDeRiesgoHasta": "",
+    "nPedidoDesde": "",
+    "nPedidoHasta": "",
+    "riesgoPedidoDesde": "",
+    "riesgoPedidoHasta": "",
+    "fechaInicio": "",
+    "fechaFin": "",
+    "pedidosYaGestionados": "",
+    "provinciaOficina": "",
+    "oficina": "",
+    "observaciones": "",
+    "TABLE": {
+      "qbe_nPedido": "",
+      "qbe_fInicio": "",
+      "qbe_fFin": "",
+      "qbe_codigo": "",
+      "qbe_empresa": "",
+      "qbe_limiteR": "",
+      "qbe_riesgo": "",
+      "qbe_riesgoAcumulado": "",
+      "qbe_estadoSeguro": "",
+      "qbe_importeAsegurado": "",
+      "qbe_razonBloqueo": "",
+      "qbe_observaciones": "",
+      "qbe_selecc": "",
+      "Nº Pedido": "",
+      "F.Inicio": "",
+      "F.Fin": "",
+      "Código": "",
+      "Empresa": "",
+      "Límite R.": "",
+      "Riesgo": "",
+      "Riesgo Acumulado": "",
+      "Estado Seguro": "",
+      "Importe Asegurado": "",
+      "Razón Bloqueo": "",
+      "Observaciones": "",
+      "Selecc.": ""
+    },
+    "DIALOG_DESBLOQUEODEPEDIDOS": {
+      "observaciones": ""
+    }
+  },
+  "PEDIDOS__CONSULTA": {
+    "nPedido": "",
+    "estado": "",
+    "oferta": "",
+    "buscarANivelNacional": "",
+    "fechaDeInicioDesde": "",
+    "fechaDeIniciohasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinhasta": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "empresa": "",
+    "nCliente": "",
+    "TABLE_EMPRESA": {
+      "qbe_nPedido": "",
+      "qbe_fechaDeInicio": "",
+      "qbe_fechaDeFin": "",
+      "qbe_empresa": "",
+      "qbe_estado": "",
+      "qbe_oferta": "",
+      "qbe_detalle": "",
+      "Nº Pedido": "",
+      "Fecha de Inicio": "",
+      "Fecha de Fin": "",
+      "Empresa": "",
+      "Estado": "",
+      "Oferta": "",
+      "Detalle": ""
+    },
+    "TABLE_COLABORADOR": {
+      "qbe_colaborador": "",
+      "qbe_generado": "",
+      "qbe_anulado": "",
+      "qbe_sustituto": "",
+      "qbe_prorroga": "",
+      "Colaborador": "",
+      "Generado": "",
+      "Anulado": "",
+      "Sustituto": "",
+      "Prórroga": ""
+    },
+    "DIALOG_BUSQUEDADEEMPRESAS": {
+      "empresaClienteRazonSocial": "",
+      "TABLE": {
+        "qbe_empresa": "",
+        "qbe_nif": "",
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_direccion": "",
+        "qbe_detalle": "",
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    }
+  },
+  "PEDIDOS__MODIFICACION": {
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "",
+      "rad_RealizandoElTraspasoDeLosContratos": "",
+      "rad_SinTraspasarLosContratos": ""
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "GESTION_EMPRESAS_CLIENTE__ALTA": {
+    "TAB_DATOSRIESGOS": {
+      "lkp_cif": "RELLENAR",
+      "estado": "",
+      "razonSocial": "",
+      "razonSocialFactura": "",
+      "margenBruto": "",
+      "limiteRiesgo": "",
+      "medioDePago": "",
+      "formaDePago": "",
+      "DIALOG_SELECCIONEEMPRESA": {
+        "razonSocial": "TELIOS LOGISTICA SL",
+        "TABLE": {
+          "qbe_nombreEmpresa": "TELIOS LOGISTICA SL",
+          "qbe_direccion": "",
+          "qbe_provincia": "",
+          "qbe_nifEmpresa": "B84652197",
+          "qbe_cnae": "",
+          "qbe_responsable": "",
+          "Nombre Empresa": "TELIOS LOGISTICA SL",
+          "Dirección": "",
+          "Provincia": "",
+          "NIF Empresa": "B84652197",
+          "C.N.A.E.": "",
+          "Responsable": ""
+        }
+      }
+    },
+    "TAB_IDENTIFICATIVOS": {
+      "siglas": "TSTGIO1",
+      "chk_clientesNacional": "true",
+      "chk_facturaGlobalizada": "false",
+      "chk_envioCPD": "true",
+      "chk_envioFacturaDigital": "true",
+      "chk_rappel_Checkbox": "true",
+      "rappel_input": "2",
+      "tipo_DomicilioSocial": "CALLE",
+      "direccion_DomicilioSocial": "TEST ST 1",
+      "localidad_DomicilioSocial": "MADRID",
+      "provincia_DomicilioSocial": "MADRID",
+      "cP_DomicilioSocial": "28005",
+      "tipo_DomicilioFiscal": "CALLE",
+      "direccion_DomicilioFiscal": "TEST ST 1",
+      "localidad_DomicilioFiscal": "MADRID",
+      "provincia_DomicilioFiscal": "MADRID",
+      "cP_DomicilioFiscal": "28005",
+      "bOE": "",
+      "medioDeCapt": "CENTRAL",
+      "oficinaOrigenDelContrato1": "",
+      "oficinaOrigenDelContrato2": "",
+      "respDeCuenta": "ROSALINA AÑAÑOS HINOJOSA",
+      "telefono": "666666666",
+      "paginaWeb": "www.test.test",
+      "observaciones": "test gio",
+      "lkp_convColectivoEmpresaUsuaria": "CONV.COLECTIVO  DE COMERCIO GENERAL",
+      "DIALOG_BUSQUEDADECONVENIOS": {
+        "nombre": "CONV. COLECT. GRUPO SABECO",
+        "TABLE": {
+          "qbe_nombre": "CONV. COLECT. GRUPO SABECO",
+          "Nombre": "CONV. COLECT. GRUPO SABECO"
+        }
+      }
+    },
+    "TAB_DATOSECONOMICOS": {
+      "impuestosTipoPorcentaje": "IVA - 21.00%(1-3)",
+      "diasFijosDePago1": "1",
+      "diasFijosDePago2": "2",
+      "numeroDeCliente": "",
+      "banco": "",
+      "entidad": "2080",
+      "sucursal": "8198",
+      "dC": "77",
+      "nCuenta": "4899832706",
+      "iBANPais": "ES",
+      "iBANDC": "26",
+      "iBANExtranjero": "",
+      "chk_personalizable": "",
+      "tipo": "CALLE",
+      "nombre_DireccionFactura": "TEST ST",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "cP": "28005",
+      "destinatario": "gczamorano@ayesa.com",
+      "clausuladoDelContratoLaboral": "CL NAVARRA",
+      "clausuladoDelCPD": "CL NAVARRA",
+      "contacto": "JUSTO",
+      "nIF": "05660720Y",
+      "nombre_Contacto": "JON",
+      "apellidos1": "LATORRE",
+      "apellidos2": "TORRES",
+      "cargo": "QA",
+      "telf1": "666555444",
+      "telf2": "666888444",
+      "email": "gczamorano@ayesa.com",
+      "chk_firmanteCPDPRLPersonalizable": "",
+      "btn_anadirContacto" : "%DO_CLICK%",
+      "TABLE" : {
+        "qbe_nombreYApellidos": "JON LATORRE TORRES",
+        "qbe_nif": "05660720Y",
+        "qbe_cargo": "QA",
+        "qbe_telefono": "66-6555444",
+        "qbe_fax": "66-6888444",
+        "qbe_email": "gczamorano@ayesa.com",
+        "Nombre y Apellidos" :  "JON LATORRE TORRES",
+        "NIF" : "05660720Y",
+        "Cargo" :  "QA",
+        "Teléfono" : "66-6555444",
+        "Fax" :  "66-6888444",
+        "E-mail" : "gczamorano@ayesa.com",
+        "Firm. CPD" :  "",
+        "Firm. PRL" : "",
+        "Contacto Ppal." :  "",
+        "Resp. Pago" : ""
+      }
+    },
+    "TAB_CATEGORIASEGURIDADSOCIAL": {
+      "btn_anadirCategoria" : "",
+      "lkp_categoriaLaboral": "* APRENDIZ",
+      "regimenDeLaSegSocial": "REGIMEN GENERAL",
+      "lkp_categoriaProfesional": "Of 1ª CHOFER CAMION EXTRAVIAL",
+      "chk_prlPersonalizable": "false",
+      "DIALOG_BUSQUEDADECATEGORIASLABORALES": {
+        "nombre": "APRENDIZ",
+        "TABLE": {
+          "qbe_codigo": "9159",
+          "qbe_categoriaLaboral": "* APRENDIZ",
+          "Código": "9159",
+          "Categoría Laboral": "* APRENDIZ"
+        }
+      },
+      "DIALOG_BUSQUEDADECATEGORIASPROFESIONALES": {
+        "nombre": "Of 1ª CHOFER CAMION EXTRAVIAL",
+        "TABLE": {
+          "qbe_codigo": "7755",
+          "qbe_categoriaProfesional": "Of 1ª CHOFER CAMION EXTRAVIAL",
+          "Código": "7755",
+          "Categoría Profesional": "Of 1ª CHOFER CAMION EXTRAVIAL"
+        }
+      },
+      "DIALOG_FICHAPRLDELACATEGORIA": {
+        "caracteristicasDelPuestoDeTrabajoYTareasADesarrollar": "",
+        "riesgosDelCentro": "",
+        "riesgosDelPuestoDeTrabajoFichasDeDatosDeSeguridadFichasTecnicasDeEquiposDeTrabajoYMaquinaria": "",
+        "medidasPreventivas": "",
+        "equiposDeProteccion": "",
+        "Observaciones": ""
+      },
+      "TABLE": {
+        "qbe_categoriaLaboral": "",
+        "qbe_categoriaProfesional": "",
+        "qbe_regimenesSegSocial": "REGIMEN GENERAL",
+        "qbe_fichaPrl": "",
+        "qbe_personalizable": "",
+        "qbe_cursosPrl": "",
+        "qbe_personalizablePrl": "",
+        "qbe_recMedico": "",
+        "Categoría Laboral": "",
+        "Categoría Profesional": "",
+        "Regímenes Seg. Social": "REGIMEN GENERAL",
+        "Ficha PRL": "",
+        "¿Personalizable?": "",
+        "Cursos PRL": "",
+        "¿Personalizable PRL?": "",
+        "Rec. Médico": ""
+      }
+    },
+    "TAB_RETRATOROBOT": {
+      "lkp_actividad": "COMERCIOS",
+      "lkp_cNAE": "Comercio al por mayor no especializado",
+      "lkp_sIC": "Industria de la madera",
+      "ventas": "<500.000",
+      "nEmpleados": "<10",
+      "chk_porTiposDeHoras": "",
+      "chk_porCentrosDeTrabajo": "",
+      "chk_porCategoriaProfesional": "",
+      "chk_mostrarPrecioUnidad": "",
+      "chk_porColaborador": "",
+      "chk_colaboradorConcepto": "",
+      "chk_mostrarMinFInicioMaxFFinPartes": "",
+      "chk_porDuracionDelContrato5Dias5Dias": "",
+      "chk_porDepartamentoAlQueSeIncorporaraElColaboradorEnElCentroDeTrabajo": "",
+      "chk_porNumeroDeColaboradores": "",
+      "numeroMaximoDeColaboradoresEnFactura": "",
+      "chk_porImporteGlobal": "true",
+      "importeMaximoPorFacturaImporteCorrespondienteIncluido": "23",
+      "chk_elTipoDeFacturacionEsPersonalizable": "true",
+      "DIALOG_BUSQUEDADEACTIVIDAD": {
+        "id": "2",
+        "nombre": "ADMINISTRACION AUTONOMICA",
+        "TABLE": {
+          "qbe_idActividad": "2",
+          "qbe_actividad": "ADMINISTRACION AUTONOMICA",
+          "ID Actividad": "2",
+          "Actividad": "ADMINISTRACION AUTONOMICA"
+        }
+      },
+      "DIALOG_BUSQUEDADECNAE": {
+        "id": "94",
+        "nombre": "Actividades asociativas",
+        "grupo": "Otros servicios",
+        "TABLE": {
+          "qbe_idCnae": "94",
+          "qbe_cnae": "Actividades asociativas",
+          "ID CNAE": "94",
+          "CNAE": "Actividades asociativas"
+        }
+      },
+      "DIALOG_BUSQUEDADESIC": {
+        "id": "01",
+        "nombre": "Agricultura",
+        "TABLE": {
+          "qbe_idSic": "01",
+          "qbe_sic": "Agricultura",
+          "ID SIC": "01",
+          "SIC": "Agricultura"
+        }
+      }
+    }
+  }
+}

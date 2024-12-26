@@ -1,0 +1,63 @@
+{
+  "CONTRATOS__CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "30589430M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9861182",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Rojo",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "PEREDA PIEROLA, ANA BELEN",
+      "qbe_direccion": "C/SAN MARTÍN, 4, -, (20700), URRETXU, GUIPÚZCOA, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "PEREDA PIEROLA, ANA BELEN",
+        "Dirección": "C/SAN MARTÍN, 4, -, (20700), URRETXU, GUIPÚZCOA, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "DIALOG_SELECCIONDETALLEDELCONTRATO": {
+      "traspasarErp": "Traspasar a Erp"
+    },
+    "TABLE": {
+      "Info": "",
+      "Oficina": "",
+      "Tipo Contrato": "",
+      "Codigo Contrato": "",
+      "Prev/Imprev": "",
+      "Nº Proyecto": "",
+      "Status": "",
+      "MSG Envío": "",
+      "Nº Contrato": "9861182",
+      "Empresa": "",
+      "NIF": "30589430M",
+      "Sec.": "",
+      "Colaborador": "PEREDA PIEROLA, ANA BELEN",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Activo": "",
+      "Motivo Baja": "",
+      "Fec. Antigüedad": "",
+      "L. Venta": "",
+      "@": "",
+      "AF": ""
+    }
+  }
+}

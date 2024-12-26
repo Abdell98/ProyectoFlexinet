@@ -1,0 +1,16 @@
+{
+  "banco" : "BANKINTER",
+  "entidad" : "0128",
+  "sucursal" : "9400",
+  "dC" : "21",
+  "nCuenta" : "0101402244",
+  "iBANPais" : "ES",
+  "iBANDC" : "78",
+  "iBANExtranjero" : "test",
+  "tipo" : "CALLE",
+  "nombreDireccionDeFactura" : "EDUARDO TORROJA, 46",
+  "localidad" : "FUENLABRADA",
+  "provincia" : "MADRID",
+  "cP" : "28946",
+  "destinatario" : ""
+}

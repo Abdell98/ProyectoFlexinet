@@ -1,0 +1,14 @@
+{
+  "nombreEmpresa" : "EL CORTE INGLES, S.A.",
+  "tipoVia" : "CALLE",
+  "nombreDireccion" : "test direccion centro trabajo",
+  "localidad" : "PALMA",
+  "provincia" : "BALEARES",
+  "cP" : "07550",
+  "medioDeCaptacion" : "CENTRAL",
+  "telefono" :  "91-6767776",
+  "convColectivoEmpresaUsuaria" :  "CONV. COL. PROVINCIAL DE COMERCIO ALMACENISTAS MATERIALES DE CONSTRUCCIÓN Y SANEAMIENTO DE LA PROVI",
+  "bOE" : "03000435011982",
+  "clausuladoDelContratoLaboral" : "CONTRATO LABORAL",
+  "clausuladoDelCPD" :  "CONTRATO LABORAL"
+}

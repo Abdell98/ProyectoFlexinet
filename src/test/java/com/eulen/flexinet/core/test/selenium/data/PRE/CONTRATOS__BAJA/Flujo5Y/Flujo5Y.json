@@ -1,0 +1,43 @@
+{
+  "CONTRATOS__BAJA_DARDEBAJA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "",
+    "nContrato": "9493905",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "9493905",
+      "Empresa": "",
+      "NIF": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Colaborador": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Máximo Días Vacaciones": "",
+      "Embargos": ""
+    },
+    "DIALOG_DARDEBAJA": {
+      "motivoDeLaBaja": "NO INCORPORACION SIN REGISTROS",
+      "fecha": ""
+    }
+  }
+}

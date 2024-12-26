@@ -1,0 +1,107 @@
+{
+  "CONTRATOS__PRORROGAS_ALTA": {
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "10892460M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9493649",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": true,
+    "fechaDeFinalizacionProrroga": "30/11/2024",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "TOPOX DOX S.L.",
+      "qbe_nIF": "B45664208",
+      "TABLE": {
+        "Empresa": "TOPOX DOX S.L.",
+        "N.I.F.": "B45664208"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+      "qbe_direccion": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+        "Dirección": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Seleccionar": "",
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "CRESPO RUIZ, FERNANDO",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "10892460M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9493070",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+      "qbe_direccion": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+        "Dirección": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "DIALOG_SELECCIONDETALLEDELCONTRATO": {
+      "traspasarErp": "Traspasar a Erp"
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo": "",
+      "Codigo Contrato": "",
+      "Colaborador": "MARTINEZ ANTUÑA, JUAN CARLOS",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "9493070",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  }
+}

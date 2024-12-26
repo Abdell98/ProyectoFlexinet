@@ -1,0 +1,50 @@
+{
+  "CONTRATOS__BAJA_CONSULTA": {
+    "empresa": "TRANSPORTES URLOMAR",
+    "nCliente": "",
+    "nombre": "JUAN MANUEL",
+    "primerApellido": "SANTOS",
+    "segundoApellido": "BENEIT",
+    "nIF": "12776524R",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9775223",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "colorSemaforo": "Azul",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "SANTOS BENEIT, JUAN MANUEL",
+      "qbe_direccion": "C/IGNACIO MARTÍNEZ DE AZCOITIA, 21, B-1, (34001), PALENCIA, PALENCIA, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+        "Dirección": "C/IGNACIO MARTÍNEZ DE AZCOITIA, 21, B-1, (34001), PALENCIA, PALENCIA, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo" : "",
+      "Codigo Contrato": "",
+      "Colaborador": "",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "9775223",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": "TRANSPORTES URLOMAR"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "GESTION_EMPRESAS_CLIENTE__CONSULTA" : {
+    "razonSocialEmpresa" : "ARTECONFORT HOTEL, S.L.",
+    "nIFempresa" : "B87621975",
+    "ventas" :  "500.000 - 1.000.000",
+    "provincia" : "TOLEDO",
+    "rangoDeEmpleados" :  "11-50",
+    "codigoPostal" : "45224",
+    "chk_LaEmpresaProvieneDeMarketing" :  "false",
+    "date_Desde" : "",
+    "date_Hasta" : "",
+    "radio_realizarBusquedaANivelNacional_si" : "true",
+    "radio_realizarBusquedaANivelNacional_no" :  "true",
+    "TABLE" : {
+      "qbe_nombreEmpresa" : "ARTECONFORT HOTEL, S.L.",
+      "qbe_nIFEmpresa" : "B87621975",
+      "qbe_direccion" :  "CARRETERA ANDALUCIA, 6 KM 35700",
+      "qbe_provincia" : "TOLEDO",
+      "qbe_cP" :  "45224",
+      "qbe_nombreContacto" : "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "qbe_cargoContacto" : "DIRECTOR GENERAL",
+      "qbe_telefonoContacto" : "91-8013536",
+      "qbe_cNAE" : "Comercio al por mayor no especializado",
+      "qbe_ventas" : "500.000 - 1.000.000",
+      "qbe_rangoEmpleados" :  "11-50",
+      "qbe_responsable" : "BEATRIZ RODRIGUEZ NAVARRO",
+      "qbe_nombreOficina" :  "442-FLX-GETAFE",
+      "Nombre Empresa": "ARTECONFORT HOTEL, S.L.",
+      "NIF Empresa": "B87621975",
+      "Dirección": "CARRETERA ANDALUCIA, 6 KM 35700",
+      "Provincia": "TOLEDO",
+      "CP": "45224",
+      "Nombre Contacto": "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "Cargo Contacto": "DIRECTOR GENERAL",
+      "Teléfono Contacto": "91-8013536",
+      "C.N.A.E.": "Comercio al por mayor no especializado",
+      "Ventas": "500.000 - 1.000.000",
+      "Rango Empleados": "11-50",
+      "Responsable": "BEATRIZ RODRIGUEZ NAVARRO",
+      "Nombre Oficina": "442-FLX-GETAFE"
+    }
+  },
+  "GESTION_EMPRESAS_CLIENTE__MODIFICAR": {
+    "TAB_DATOSRIESGOS": {
+      "lkp_cif": "B87621975",
+      "estado": "Registrada",
+      "razonSocial": "ARTECONFORT HOTEL, S.L.",
+      "razonSocialFactura": "ARTECONFORT HOTEL, S.L.",
+      "margenBruto": "17,50",
+      "limiteRiesgo": "1,00",
+      "medioDePago": "TRANSFERENCIA",
+      "formaDePago": "A 30 DÍAS",
+      "DIALOG_SELECCIONEEMPRESA": {
+        "razonSocial": "",
+        "TABLE": {
+          "qbe_nombreEmpresa": "",
+          "qbe_direccion": "",
+          "qbe_provincia": "",
+          "qbe_nifEmpresa": "",
+          "qbe_cnae": "",
+          "qbe_responsable": "",
+          "Nombre Empresa": "",
+          "Dirección": "",
+          "Provincia": "",
+          "NIF Empresa": "",
+          "C.N.A.E.": "",
+          "Responsable": ""
+        }
+      }
+    },
+    "TAB_IDENTIFICATIVOS": {
+      "siglas": " ",
+      "chk_clientesNacional": "false",
+      "chk_facturaGlobalizada": "false",
+      "chk_envioCPD": "false",
+      "chk_envioFacturaDigital": "false",
+      "chk_rappel_Checkbox": "false",
+      "rappel_input": "0",
+      "tipo_DomicilioSocial": "CARRETERA",
+      "direccion_DomicilioSocial": "ANDALUCIA, 6 KM 35700",
+      "localidad_DomicilioSocial": "SESEÑA",
+      "provincia_DomicilioSocial": "TOLEDO",
+      "cP_DomicilioSocial": "45224",
+      "tipo_DomicilioFiscal": "CALLE",
+      "direccion_DomicilioFiscal": "HORMERO  Nº30 ESC 1 PUERTA1",
+      "localidad_DomicilioFiscal": "MADRID",
+      "provincia_DomicilioFiscal": "MADRID",
+      "cP_DomicilioFiscal": "28340",
+      "bOE": "",
+      "medioDeCapt": "PROSPECCION",
+      "oficinaOrigenDelContrato1": "1048",
+      "oficinaOrigenDelContrato2": "442-FLX-GETAFE",
+      "respDeCuenta": "BEATRIZ RODRIGUEZ NAVARRO",
+      "telefono": "91-8013536",
+      "paginaWeb": "",
+      "observaciones": "",
+      "lkp_convColectivoEmpresaUsuaria": "CONV.COLECTIVO  DE COMERCIO GENERAL",
+      "DIALOG_BUSQUEDADECONVENIOS": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_nombre": "",
+          "Nombre": ""
+        }
+      }
+    },
+    "TAB_DATOSECONOMICOS": {
+      "impuestosTipoPorcentaje": "IVA - 21.00%(1-3)",
+      "diasFijosDePago1": "30",
+      "diasFijosDePago2": "",
+      "numeroDeCliente": "133600",
+      "banco": "BANKINTER",
+      "entidad": "0128",
+      "sucursal": "9400",
+      "dC": "21",
+      "nCuenta": "0101402244",
+      "iBANPais": "ES",
+      "iBANDC": "78",
+      "iBANExtranjero": "",
+      "chk_personalizable": "true",
+      "tipo": "CALLE",
+      "nombre_DireccionFactura": "HORMERO, 30 ESC 1 PUERTA 1",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "cP": "28340",
+      "destinatario": "",
+      "clausuladoDelContratoLaboral": "CONTRATO LABORAL",
+      "clausuladoDelCPD": "CPD 2011",
+      "contacto": "",
+      "nIF": "",
+      "nombre_Contacto": "",
+      "apellidos1": "",
+      "apellidos2": "",
+      "cargo": "",
+      "telf1": "",
+      "telf2": "",
+      "email": "",
+      "chk_firmanteCPDPRLPersonalizable": "true",
+      "btn_anadirContacto" : "",
+      "TABLE" : {
+        "qbe_nombreYApellidos": "",
+        "qbe_nif": "",
+        "qbe_cargo": "",
+        "qbe_telefono": "",
+        "qbe_fax": "",
+        "qbe_email": "",
+        "Nombre y Apellidos" :  "",
+        "NIF" : "",
+        "Cargo" :  "",
+        "Teléfono" : "",
+        "Fax" :  "",
+        "E-mail" : "",
+        "Firm. CPD" :  "",
+        "Firm. PRL" : "",
+        "Contacto Ppal." :  "",
+        "Resp. Pago" : ""
+      }
+    },
+    "TAB_CATEGORIASEGURIDADSOCIAL": {
+      "lkp_categoriaLaboral": "",
+      "regimenDeLaSegSocial": "",
+      "lkp_categoriaProfesional": "",
+      "chk_prlPersonalizable": "",
+      "DIALOG_BUSQUEDADECATEGORIASLABORALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaLaboral": "",
+          "Código": "",
+          "Categoría Laboral": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECATEGORIASPROFESIONALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaProfesional": "",
+          "Código": "",
+          "Categoría Profesional": ""
+        }
+      },
+      "DIALOG_FICHAPRLDELACATEGORIA": {
+        "caracteristicasDelPuestoDeTrabajoYTareasADesarrollar": "",
+        "riesgosDelCentro": "",
+        "riesgosDelPuestoDeTrabajoFichasDeDatosDeSeguridadFichasTecnicasDeEquiposDeTrabajoYMaquinaria": "",
+        "medidasPreventivas": "",
+        "equiposDeProteccion": "",
+        "Observaciones": ""
+      }
+    },
+    "TAB_RETRATOROBOT": {
+      "lkp_actividad": "COMERCIOS",
+      "lkp_cNAE": "Comercio al por mayor no especializado",
+      "lkp_sIC": "Industria de la madera",
+      "ventas": "500.000 - 1.000.000",
+      "nEmpleados": "11-50",
+      "chk_porTiposDeHoras": "false",
+      "chk_facturaGlobalizada" : "",
+      "chk_porCentrosDeTrabajo": "false",
+      "chk_porCategoriaProfesional": "false",
+      "chk_mostrarPrecioUnidad": "false",
+      "chk_porColaborador": "false",
+      "chk_colaboradorConcepto": "false",
+      "chk_mostrarMinFInicioMaxFFinPartes": "false",
+      "chk_porDuracionDelContrato5Dias5Dias": "false",
+      "chk_porDepartamentoAlQueSeIncorporaraElColaboradorEnElCentroDeTrabajo": "false",
+      "chk_porNumeroDeColaboradores": "true",
+      "numeroMaximoDeColaboradoresEnFactura": "10",
+      "chk_porImporteGlobal": "false",
+      "importeMaximoPorFacturaImporteCorrespondienteIncluido": "",
+      "chk_elTipoDeFacturacionEsPersonalizable": "true",
+      "DIALOG_BUSQUEDADEACTIVIDAD": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idActividad": "",
+          "qbe_actividad": "",
+          "ID Actividad": "",
+          "Actividad": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECNAE": {
+        "id": "",
+        "nombre": "",
+        "grupo": "",
+        "TABLE": {
+          "qbe_idCnae": "",
+          "qbe_cnae": "",
+          "ID CNAE": "",
+          "CNAE": ""
+        }
+      },
+      "DIALOG_BUSQUEDADESIC": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idSic": "",
+          "qbe_sic": "",
+          "ID SIC": "",
+          "SIC": ""
+        }
+      }
+    }
+  }
+}

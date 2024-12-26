@@ -1,0 +1,46 @@
+{
+  "CONTRATOS__TRASPASO_MASIVO": {
+    "empresa": "BEBECAR ESPAÑOLA S.L.",
+    "nCliente": "",
+    "nombre": "ALEXANDER",
+    "primerApellido": "ATIYQ",
+    "segundoApellido": "SANCHEZ",
+    "nIF": "78939919D",
+    "lkp_nIF": "",
+    "nContrato": "9493323",
+    "fechadeInicioDesde": "21/08/2024",
+    "fechadeInicioHasta": "21/08/2024",
+    "fechaDeFinDesde": "24/08/2024",
+    "fechaDeFinHasta": "24/08/2024",
+    "buscarANivelNacional": true,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "ATIYQ SANCHEZ, ALEXANDER",
+      "qbe_direccion": "URPATRICIA BILBAO, 11, A-3, (1400), LLODIO, ÁLAVA, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "ATIYQ SANCHEZ, ALEXANDER",
+        "Dirección": "URPATRICIA BILBAO, 11, A-3, (1400), LLODIO, ÁLAVA, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "qbe_seleccionarContrato": "",
+      "qbe_nContrato": "9493323",
+      "qbe_empresa": "BEBECAR ESPAÑOLA S.L.",
+      "qbe_nIF": "78999666F",
+      "qbe_colaborador": "TORRES GUTIERREZ, MARIA PRADO",
+      "qbe_seguridadSocialContrato": "111015390156",
+      "qbe_fecInicioContrato": "",
+      "qbe_fecFinContrato": "",
+      "qbe_fecAntiguedadContrato": "",
+      "Nº Contrato": "9493323",
+      "Empresa": "BEBECAR ESPAÑOLA S.L.",
+      "NIF": "78999666F",
+      "Colaborador": "TORRES GUTIERREZ, MARIA PRADO",
+      "Seguridad Social": "111015390156",
+      "Fec. Inicio": "21/08/2024",
+      "Fec. Fin": "24/08/2024",
+      "Fec. Antigüedad": "21/08/2024"
+    }
+  }
+
+}

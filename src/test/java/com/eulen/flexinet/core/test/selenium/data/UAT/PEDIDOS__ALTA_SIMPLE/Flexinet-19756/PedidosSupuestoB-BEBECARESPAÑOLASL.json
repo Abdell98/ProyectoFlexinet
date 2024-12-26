@@ -1,0 +1,143 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSDELPEDIDO": {
+      "nPedido": "",
+      "nPedidoAuxiliar": "123",
+      "Dropdown" : "Two",
+      "tCont": "",
+      "clausulas": "",
+      "convenio": "CONVENIO SEPE",
+      "centrosDeTrabajo": "TRANSPORTES IZALNERA SL.",
+      "supuestoCelebracion": "LETRA (B) DEL APTDO. 2 DEL ART. 6 DE LA LEY 14/94",
+      "existeConvColectQuePermitaContratosDe6A12MesesEnUnPeriodoDe18": "",
+      "sustitucionDelTrabajador": "",
+      "motivoDeSustitucion": "",
+      "elLaTrabajadoraEstaEnPosesionDelTitulo": "",
+      "elLaTrabajadoraAcreditaConLaCertificacionPor": "",
+      "certificadoProfesional": "",
+      "desempleadoYMenor30Anos": "",
+      "desempleadoYMenor35AnosYConDiscapacSup30": "",
+      "menor30AnosRealizarPracticasNoLaboralesRD15432011": "",
+      "haberTerminadoLosEstudiosQueLeCapacitanParaLaPracticaObjetoDeDichoContratoConFecha": "",
+      "descripcion": "test %RANDOM_TEXT%",
+      "contratacionMenos100": "true",
+      "fechaPrevistaDeInicio": "%PLUS2%",
+      "fechaPrevistaDeFin": "%PLUS5%",
+      "rad_previsible": "true",
+      "rad_imprevisible": "false",
+      "avalNecesario": "true",
+      "importeDelAval": "0",
+      "observaciones": "test %RANDOM_KEY%",
+      "DIALOG_SELECCIONDEEMPRESA": {
+        "empresa": "TRANSPORTES IZALNERA SL",
+        "nIF": "B86617370",
+        "nCliente": "376004",
+        "TABLE": {
+          "qbe_nif": "B86617370",
+          "qbe_empresa": "TRANSPORTES IZALNERA SL",
+          "qbe_nCliente": "376004",
+          "qbe_estado": "Registrada",
+          "qbe_formaDePago": "A 30 DÍAS",
+          "qbe_comportamientoDePago": "RECIBO DOMICIL.",
+          "qbe_detalle": "",
+          "N.I.F.": "B86617370",
+          "Empresa": "TRANSPORTES IZALNERA SL.",
+          "Nº Cliente": "",
+          "Estado": "Registrada",
+          "Forma de Pago": "A 30 DÍAS",
+          "Comportamiento de pago": "RECIBO DOMICIL.",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DATOSDEJORNADA": {
+      "departamento": "TEST",
+      "nCandidatosAsignados": "1",
+      "nCandidatosSolicitados": "1",
+      "diasTrabajadosALaSemana": "5",
+      "horasNormalesDiarias": "6:00",
+      "periodoDePrueba": "15",
+      "porcentajeJornada": "80",
+      "diasDeTrabajoSemanales": "true,true,true,true,true,false,false",
+      "horario": "tarde y noche",
+      "aTurnos": "true",
+      "turno": "tarde"
+    },
+    "TAB_DATOSDETARIFA": {
+      "oferta": "",
+      "categoriaLaboral": "JARDINERO / JARDINERO / REGIMEN GENERAL",
+      "categoriaProfesional": "",
+      "seleccioneDuracionYTipoDeJornadaDeLaTarifa": "",
+      "tarifaNormal": "false",
+      "tarifaIgualOInferior5Dias": "true",
+      "compPago": "",
+      "grupoCotizacion": "",
+      "ocupacion": "",
+      "brutoMensual": "",
+      "bonificacion": "",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "previsionarCompensacionFinContrato": ""
+    },
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "Juan Manuel",
+      "primerApellido": "Santos",
+      "segundoApellido": "Beneit",
+      "dNI": "12776524R",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "ALMONACID DE TOLEDO",
+        "elegirOcupacion": "INSTRUCTORES EN TECNOLOGIAS DE LA INFORMACION EN ENSEÑANZA NO REGLADA",
+        "seleccionarTitulacion": "INGENIERO TECNICO EN ORGANIZACION INDUSTRIAL",
+        "sexo": "Hombre"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+          "Dirección": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DESGLOSEDECATEGORIAPROFESIONAL": {
+      "TABLE": {
+        "qbe_salarioBruto": "",
+        "qbe_salarial": "",
+        "qbe_extrasal": "",
+        "qbe_plusSalarial": "",
+        "qbe_plusExtraSal": "",
+        "qbe_seguridadSocial": "",
+        "qbe_formacionComPartit": "",
+        "qbe_indemnizFinContrato": "",
+        "qbe_revisionCoste": "",
+        "qbe_medica": "",
+        "qbe_otros": "",
+        "qbe_costeTotal": "",
+        "qbe_margenBruto": "",
+        "qbe_pvp": "",
+        "Salario Bruto": "",
+        "Salarial": "10",
+        "Extrasal.": "12",
+        "Plus Salarial": "14",
+        "Plus Extrasal.": "12",
+        "Seguridad Social": "",
+        "Formación + Com. Parit.": "",
+        "Indemniz. Fin Contrato": "",
+        "Revisión Coste": "",
+        "Médica %": "",
+        "Otros": "",
+        "Coste Total": "",
+        "Margen Bruto %": "",
+        "P.V.P.": ""
+      }
+    },
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "%PLUS2%",
+      "rad_RealizandoElTraspasoDeLosContratos": "true",
+      "rad_SinTraspasarLosContratos": "false"
+    }
+  }
+}

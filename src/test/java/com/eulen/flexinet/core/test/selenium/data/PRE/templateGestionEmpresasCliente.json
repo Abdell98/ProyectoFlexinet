@@ -1,0 +1,483 @@
+{
+  "GESTION_EMPRESAS_CLIENTE__ALTA": {
+    "TAB_DATOSRIESGOS": {
+      "lkp_cif": "",
+      "estado": "",
+      "razonSocial": "",
+      "razonSocialFactura": "",
+      "margenBruto": "",
+      "limiteRiesgo": "",
+      "medioDePago": "",
+      "formaDePago": "",
+      "DIALOG_SELECCIONEEMPRESA": {
+        "razonSocial": "",
+        "TABLE": {
+          "qbe_nombreEmpresa": "",
+          "qbe_direccion": "",
+          "qbe_provincia": "",
+          "qbe_nifEmpresa": "",
+          "qbe_cnae": "",
+          "qbe_responsable": "",
+          "Nombre Empresa": "",
+          "Dirección": "",
+          "Provincia": "",
+          "NIF Empresa": "",
+          "C.N.A.E.": "",
+          "Responsable": ""
+        }
+      }
+    },
+    "TAB_IDENTIFICATIVOS": {
+      "siglas": "",
+      "chk_clientesNacional": "",
+      "chk_facturaGlobalizada": "",
+      "chk_envioCPD": "",
+      "chk_envioFacturaDigital": "",
+      "chk_rappel_Checkbox": "",
+      "rappel_input": "",
+      "tipo_DomicilioSocial": "",
+      "direccion_DomicilioSocial": "",
+      "localidad_DomicilioSocial": "",
+      "provincia_DomicilioSocial": "",
+      "cP_DomicilioSocial": "",
+      "tipo_DomicilioFiscal": "",
+      "direccion_DomicilioFiscal": "",
+      "localidad_DomicilioFiscal": "",
+      "provincia_DomicilioFiscal": "",
+      "cP_DomicilioFiscal": "",
+      "bOE": "",
+      "medioDeCapt": "",
+      "oficinaOrigenDelContrato1": "",
+      "oficinaOrigenDelContrato2": "",
+      "respDeCuenta": "",
+      "telefono": "",
+      "paginaWeb": "",
+      "observaciones": "",
+      "lkp_convColectivoEmpresaUsuaria": "",
+      "DIALOG_BUSQUEDADECONVENIOS": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_nombre": "",
+          "Nombre": ""
+        }
+      }
+    },
+    "TAB_DATOSECONOMICOS": {
+      "impuestosTipoPorcentaje": "",
+      "diasFijosDePago1": "",
+      "diasFijosDePago2": "",
+      "numeroDeCliente": "",
+      "banco": "",
+      "entidad": "",
+      "sucursal": "",
+      "dC": "",
+      "nCuenta": "",
+      "iBANPais": "",
+      "iBANDC": "",
+      "iBANExtranjero": "",
+      "chk_personalizable": "",
+      "tipo": "",
+      "nombre_DireccionFactura": "",
+      "localidad": "",
+      "provincia": "",
+      "cP": "",
+      "destinatario": "",
+      "clausuladoDelContratoLaboral": "",
+      "clausuladoDelCPD": "",
+      "contacto": "",
+      "nIF": "",
+      "nombre_Contacto": "",
+      "apellidos1": "",
+      "apellidos2": "",
+      "cargo": "",
+      "telf1": "",
+      "telf2": "",
+      "email": "",
+      "chk_firmanteCPDPRLPersonalizable": "",
+      "btn_anadirContacto": "",
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_nif": "",
+        "qbe_cargo": "",
+        "qbe_telefono": "",
+        "qbe_fax": "",
+        "qbe_email": "",
+        "Nombre y Apellidos": "",
+        "NIF": "",
+        "Cargo": "",
+        "Teléfono": "",
+        "Fax": "",
+        "E-mail": "",
+        "Firm. CPD": "",
+        "Firm. PRL": "",
+        "Contato Ppal.": "",
+        "Resp. Pago": ""
+      }
+    },
+    "TAB_CATEGORIASEGURIDADSOCIAL": {
+      "lkp_categoriaLaboral": "",
+      "regimenDeLaSegSocial": "",
+      "lkp_categoriaProfesional": "",
+      "chk_prlPersonalizable": "",
+      "btn_anadirCategoria": "",
+      "DIALOG_BUSQUEDADECATEGORIASLABORALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaLaboral": "",
+          "Código": "",
+          "Categoría Laboral": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECATEGORIASPROFESIONALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaProfesional": "",
+          "Código": "",
+          "Categoría Profesional": ""
+        }
+      },
+      "DIALOG_FICHAPRLDELACATEGORIA": {
+        "caracteristicasDelPuestoDeTrabajoYTareasADesarrollar": "",
+        "riesgosDelCentro": "",
+        "riesgosDelPuestoDeTrabajoFichasDeDatosDeSeguridadFichasTecnicasDeEquiposDeTrabajoYMaquinaria": "",
+        "medidasPreventivas": "",
+        "equiposDeProteccion": "",
+        "Observaciones": ""
+      },
+      "TABLE": {
+        "qbe_categoriaLaboral": "",
+        "qbe_categoriaProfesional": "",
+        "qbe_regimenesSegSocial": "",
+        "qbe_fichaPrl": "",
+        "qbe_personalizable": "",
+        "qbe_cursosPrl": "",
+        "qbe_personalizablePrl": "",
+        "qbe_recMedico": "",
+        "Categoría Laboral": "",
+        "Categoría Profesional": "",
+        "Regímenes Seg. Social": "",
+        "Ficha PRL": "",
+        "¿Personalizable?": "",
+        "Cursos PRL": "",
+        "¿Personalizable PRL?": "",
+        "Rec. Médico": ""
+      }
+    },
+    "TAB_RETRATOROBOT": {
+      "lkp_actividad": "",
+      "lkp_cNAE": "",
+      "lkp_sIC": "",
+      "ventas": "",
+      "nEmpleados": "",
+      "chk_porTiposDeHoras": "",
+      "chk_facturaGlobalizada": "",
+      "chk_porCentrosDeTrabajo": "",
+      "chk_porCategoriaProfesional": "",
+      "chk_mostrarPrecioUnidad": "",
+      "chk_porColaborador": "",
+      "chk_colaboradorConcepto": "",
+      "chk_mostrarMinFInicioMaxFFinPartes": "",
+      "chk_porDuracionDelContrato5Dias5Dias": "",
+      "chk_porDepartamentoAlQueSeIncorporaraElColaboradorEnElCentroDeTrabajo": "",
+      "chk_porNumeroDeColaboradores": "",
+      "numeroMaximoDeColaboradoresEnFactura": "",
+      "chk_porImporteGlobal": "",
+      "importeMaximoPorFacturaImporteCorrespondienteIncluido": "",
+      "chk_elTipoDeFacturacionEsPersonalizable": "",
+      "DIALOG_BUSQUEDADEACTIVIDAD": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idActividad": "",
+          "qbe_actividad": "",
+          "ID Actividad": "",
+          "Actividad": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECNAE": {
+        "id": "",
+        "nombre": "",
+        "grupo": "",
+        "TABLE": {
+          "qbe_idCnae": "",
+          "qbe_cnae": "",
+          "ID CNAE": "",
+          "CNAE": ""
+        }
+      },
+      "DIALOG_BUSQUEDADESIC": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idSic": "",
+          "qbe_sic": "",
+          "ID SIC": "",
+          "SIC": ""
+        }
+      }
+    }
+  },
+  "GESTION_EMPRESAS_CLIENTE__CONSULTA": {
+    "razonSocialEmpresa": "",
+    "nIFempresa": "",
+    "ventas": "",
+    "provincia": "",
+    "rangoDeEmpleados": "",
+    "codigoPostal": "",
+    "chk_LaEmpresaProvieneDeMarketing": "",
+    "date_Desde": "",
+    "date_Hasta": "",
+    "radio_realizarBusquedaANivelNacional_si": "",
+    "radio_realizarBusquedaANivelNacional_no": "",
+    "TABLE": {
+      "qbe_nombreEmpresa": "",
+      "qbe_nIFEmpresa": "",
+      "qbe_direccion": "",
+      "qbe_provincia": "",
+      "qbe_cP": "",
+      "qbe_nombreContacto": "",
+      "qbe_cargoContacto": "",
+      "qbe_telefonoContacto": "",
+      "qbe_cNAE": "",
+      "qbe_ventas": "",
+      "qbe_rangoEmpleados": "",
+      "qbe_responsable": "",
+      "qbe_nombreOficina": "",
+      "Nombre Empresa": "",
+      "NIF Empresa": "",
+      "Dirección": "",
+      "Provincia": "",
+      "CP": "",
+      "Nombre Contacto": "",
+      "Cargo Contacto": "",
+      "Teléfono Contacto": "",
+      "C.N.A.E.": "",
+      "Ventas": "",
+      "Rango Empleados": "",
+      "Responsable": "",
+      "Nombre Oficina": ""
+    }
+  },
+  "GESTION_EMPRESAS_CLIENTE__MODIFICAR": {
+    "TAB_DATOSRIESGOS": {
+      "lkp_cif": "",
+      "estado": "",
+      "razonSocial": "",
+      "razonSocialFactura": "",
+      "margenBruto": "",
+      "limiteRiesgo": "",
+      "medioDePago": "",
+      "formaDePago": "",
+      "DIALOG_SELECCIONEEMPRESA": {
+        "razonSocial": "",
+        "TABLE": {
+          "qbe_nombreEmpresa": "",
+          "qbe_direccion": "",
+          "qbe_provincia": "",
+          "qbe_nifEmpresa": "",
+          "qbe_cnae": "",
+          "qbe_responsable": "",
+          "Nombre Empresa": "",
+          "Dirección": "",
+          "Provincia": "",
+          "NIF Empresa": "",
+          "C.N.A.E.": "",
+          "Responsable": ""
+        }
+      }
+    },
+    "TAB_IDENTIFICATIVOS": {
+      "siglas": "",
+      "chk_clientesNacional": "",
+      "chk_facturaGlobalizada": "",
+      "chk_envioCPD": "",
+      "chk_envioFacturaDigital": "",
+      "chk_rappel_Checkbox": "",
+      "rappel_input": "",
+      "tipo_DomicilioSocial": "",
+      "direccion_DomicilioSocial": "",
+      "localidad_DomicilioSocial": "",
+      "provincia_DomicilioSocial": "",
+      "cP_DomicilioSocial": "",
+      "tipo_DomicilioFiscal": "",
+      "direccion_DomicilioFiscal": "",
+      "localidad_DomicilioFiscal": "",
+      "provincia_DomicilioFiscal": "",
+      "cP_DomicilioFiscal": "",
+      "bOE": "",
+      "medioDeCapt": "",
+      "oficinaOrigenDelContrato1": "",
+      "oficinaOrigenDelContrato2": "",
+      "respDeCuenta": "",
+      "telefono": "",
+      "paginaWeb": "",
+      "observaciones": "",
+      "lkp_convColectivoEmpresaUsuaria": "",
+      "DIALOG_BUSQUEDADECONVENIOS": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_nombre": "",
+          "Nombre": ""
+        }
+      }
+    },
+    "TAB_DATOSECONOMICOS": {
+      "impuestosTipoPorcentaje": "",
+      "diasFijosDePago1": "",
+      "diasFijosDePago2": "",
+      "numeroDeCliente": "",
+      "banco": "",
+      "entidad": "",
+      "sucursal": "",
+      "dC": "",
+      "nCuenta": "",
+      "iBANPais": "",
+      "iBANDC": "",
+      "iBANExtranjero": "",
+      "chk_personalizable": "",
+      "tipo": "",
+      "nombre_DireccionFactura": "",
+      "localidad": "",
+      "provincia": "",
+      "cP": "",
+      "destinatario": "",
+      "clausuladoDelContratoLaboral": "",
+      "clausuladoDelCPD": "",
+      "contacto": "",
+      "nIF": "",
+      "nombre_Contacto": "",
+      "apellidos1": "",
+      "apellidos2": "",
+      "cargo": "",
+      "telf1": "",
+      "telf2": "",
+      "email": "",
+      "chk_firmanteCPDPRLPersonalizable": "",
+      "btn_anadirContacto": "",
+      "TABLE": {
+        "qbe_nombreYApellidos": "",
+        "qbe_nif": "",
+        "qbe_cargo": "",
+        "qbe_telefono": "",
+        "qbe_fax": "",
+        "qbe_email": "",
+        "Nombre y Apellidos": "",
+        "NIF": "",
+        "Cargo": "",
+        "Teléfono": "",
+        "Fax": "",
+        "E-mail": "",
+        "Firm. CPD": "",
+        "Firm. PRL": "",
+        "Contato Ppal.": "",
+        "Resp. Pago": ""
+      }
+    },
+    "TAB_CATEGORIASEGURIDADSOCIAL": {
+      "lkp_categoriaLaboral": "",
+      "regimenDeLaSegSocial": "",
+      "lkp_categoriaProfesional": "",
+      "chk_prlPersonalizable": "",
+      "btn_anadirCategoria": "",
+      "DIALOG_BUSQUEDADECATEGORIASLABORALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaLaboral": "",
+          "Código": "",
+          "Categoría Laboral": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECATEGORIASPROFESIONALES": {
+        "nombre": "",
+        "TABLE": {
+          "qbe_codigo": "",
+          "qbe_categoriaProfesional": "",
+          "Código": "",
+          "Categoría Profesional": ""
+        }
+      },
+      "DIALOG_FICHAPRLDELACATEGORIA": {
+        "caracteristicasDelPuestoDeTrabajoYTareasADesarrollar": "",
+        "riesgosDelCentro": "",
+        "riesgosDelPuestoDeTrabajoFichasDeDatosDeSeguridadFichasTecnicasDeEquiposDeTrabajoYMaquinaria": "",
+        "medidasPreventivas": "",
+        "equiposDeProteccion": "",
+        "Observaciones": ""
+      },
+      "TABLE": {
+        "qbe_categoriaLaboral": "",
+        "qbe_categoriaProfesional": "",
+        "qbe_regimenesSegSocial": "",
+        "qbe_fichaPrl": "",
+        "qbe_personalizable": "",
+        "qbe_cursosPrl": "",
+        "qbe_personalizablePrl": "",
+        "qbe_recMedico": "",
+        "Categoría Laboral": "",
+        "Categoría Profesional": "",
+        "Regímenes Seg. Social": "",
+        "Ficha PRL": "",
+        "¿Personalizable?": "",
+        "Cursos PRL": "",
+        "¿Personalizable PRL?": "",
+        "Rec. Médico": ""
+      }
+    },
+    "TAB_RETRATOROBOT": {
+      "lkp_actividad": "",
+      "lkp_cNAE": "",
+      "lkp_sIC": "",
+      "ventas": "",
+      "nEmpleados": "",
+      "chk_porTiposDeHoras": "",
+      "chk_facturaGlobalizada": "",
+      "chk_porCentrosDeTrabajo": "",
+      "chk_porCategoriaProfesional": "",
+      "chk_mostrarPrecioUnidad": "",
+      "chk_porColaborador": "",
+      "chk_colaboradorConcepto": "",
+      "chk_mostrarMinFInicioMaxFFinPartes": "",
+      "chk_porDuracionDelContrato5Dias5Dias": "",
+      "chk_porDepartamentoAlQueSeIncorporaraElColaboradorEnElCentroDeTrabajo": "",
+      "chk_porNumeroDeColaboradores": "",
+      "numeroMaximoDeColaboradoresEnFactura": "",
+      "chk_porImporteGlobal": "",
+      "importeMaximoPorFacturaImporteCorrespondienteIncluido": "",
+      "chk_elTipoDeFacturacionEsPersonalizable": "",
+      "DIALOG_BUSQUEDADEACTIVIDAD": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idActividad": "",
+          "qbe_actividad": "",
+          "ID Actividad": "",
+          "Actividad": ""
+        }
+      },
+      "DIALOG_BUSQUEDADECNAE": {
+        "id": "",
+        "nombre": "",
+        "grupo": "",
+        "TABLE": {
+          "qbe_idCnae": "",
+          "qbe_cnae": "",
+          "ID CNAE": "",
+          "CNAE": ""
+        }
+      },
+      "DIALOG_BUSQUEDADESIC": {
+        "id": "",
+        "nombre": "",
+        "TABLE": {
+          "qbe_idSic": "",
+          "qbe_sic": "",
+          "ID SIC": "",
+          "SIC": ""
+        }
+      }
+    }
+  }
+}

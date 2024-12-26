@@ -1,0 +1,27 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "MARIA",
+      "primerApellido": "RUIZ",
+      "segundoApellido": "MERCADO",
+      "dNI": " ",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "SEVILLA",
+        "elegirOcupacion": "PERSONAL DE LIMPIEZA DE OFICINAS, HOTELES Y OTROS ESTABLECIMIENTOS SIMILARES",
+        "seleccionarTitulacion": "CERTIFICADO EDUCACION PRIMARIA (LOGSE)",
+        "sexo": "Mujer"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "RUIZ MERCADO, MARIA",
+          "Dirección": "C/JULIO CESAR , 7, D-6, (41900), CAMAS, SEVILLA, ESPAÑA",
+          "Detalle": ""
+        }
+      }
+    }
+  }
+}

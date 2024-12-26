@@ -1,0 +1,49 @@
+{
+  "CONTRATOS__BAJA_ANULACION": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "02/01/2023",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo" : "",
+      "Codigo Contrato": "",
+      "Colaborador": "",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "JOSE DANIEL",
+      "primerApellido": "CANTUCHE",
+      "segundoApellido": "CASILLAS",
+      "dNI": "70808420E",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "SEGOVIA",
+        "elegirOcupacion": "PERSONAL DE LIMPIEZA DE OFICINAS, HOTELES Y OTROS ESTABLECIMIENTOS SIMILARES",
+        "seleccionarTitulacion": "CERTIFICADO EDUCACION PRIMARIA (LOGSE)",
+        "sexo": "Hombre"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "CANTUCHE CASILLAS, JOSE DANIEL",
+          "Dirección": "PZA.AZORIN, 31, A-1, (40006), SEGOVIA, SEGOVIA, ESPAÑA",
+          "Detalle": ""
+        }
+      }
+    }
+  }
+}

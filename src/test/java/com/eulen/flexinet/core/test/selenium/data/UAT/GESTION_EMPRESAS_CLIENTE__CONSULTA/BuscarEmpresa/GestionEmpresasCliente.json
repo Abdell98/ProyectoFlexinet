@@ -1,0 +1,43 @@
+{
+  "GESTION_EMPRESAS_CLIENTE__CONSULTA" : {
+    "razonSocialEmpresa" : "ARTECONFORT HOTEL, S.L.",
+    "nIFempresa" : "B87621975",
+    "ventas" :  "500.000 - 1.000.000",
+    "provincia" : "TOLEDO",
+    "rangoDeEmpleados" :  "11-50",
+    "codigoPostal" : "45224",
+    "chk_LaEmpresaProvieneDeMarketing" :  "false",
+    "date_Desde" : "",
+    "date_Hasta" : "",
+    "radio_realizarBusquedaANivelNacional_si" : "true",
+    "radio_realizarBusquedaANivelNacional_no" :  "true",
+    "TABLE" : {
+      "qbe_nombreEmpresa" : "ARTECONFORT HOTEL, S.L.",
+      "qbe_nIFEmpresa" : "B87621975",
+      "qbe_direccion" :  "CARRETERA ANDALUCIA, 6 KM 35700",
+      "qbe_provincia" : "TOLEDO",
+      "qbe_cP" :  "45224",
+      "qbe_nombreContacto" : "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "qbe_cargoContacto" : "DIRECTOR GENERAL",
+      "qbe_telefonoContacto" : "91-8013536",
+      "qbe_cNAE" : "Comercio al por mayor no especializado",
+      "qbe_ventas" : "500.000 - 1.000.000",
+      "qbe_rangoEmpleados" :  "11-50",
+      "qbe_responsable" : "BEATRIZ RODRIGUEZ NAVARRO",
+      "qbe_nombreOficina" :  "442-FLX-GETAFE",
+      "Nombre Empresa": "ARTECONFORT HOTEL, S.L.",
+      "NIF Empresa": "B87621975",
+      "Dirección": "CARRETERA ANDALUCIA, 6 KM 35700",
+      "Provincia": "TOLEDO",
+      "CP": "45224",
+      "Nombre Contacto": "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "Cargo Contacto": "DIRECTOR GENERAL",
+      "Teléfono Contacto": "91-8013536",
+      "C.N.A.E.": "Comercio al por mayor no especializado",
+      "Ventas": "500.000 - 1.000.000",
+      "Rango Empleados": "11-50",
+      "Responsable": "BEATRIZ RODRIGUEZ NAVARRO",
+      "Nombre Oficina": "442-FLX-GETAFE"
+    }
+  }
+}

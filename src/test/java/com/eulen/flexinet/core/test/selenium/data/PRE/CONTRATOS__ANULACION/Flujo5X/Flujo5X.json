@@ -1,0 +1,37 @@
+{
+  "CONTRATOS__ANULACION": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "",
+    "nContrato": "9493748",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "9493748",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  }
+}

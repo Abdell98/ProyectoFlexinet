@@ -1,0 +1,48 @@
+{
+  "FACTURACION__CONSULTA": {
+    "razonSocial": "TOPOX DOX S.L.",
+    "lkp_razonSocial": "",
+    "chk_busquedaANivelNacional": "",
+    "chk_preFacturadas": "true",
+    "chk_facturas": "true",
+    "chk_sPF": "",
+    "chk_abonosTotales": "true",
+    "chk_abonosParciales": "true",
+    "chk_validadasEmisionMasiva": "",
+    "chk_busquedaErp": "false",
+    "chk_ultimoMes": "",
+    "chk_rangoFecha": "",
+    "facturas": "",
+    "nDocumento": "",
+    "rangoFechaDesde": "",
+    "rangoFechaHasta": "",
+    "chk_facturasManuales": "",
+    "chk_marcarDesmarcarEmitir": "",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "BIDA FARMA, SOC. COOP. ANDALUZA",
+      "qbe_nIF": "",
+      "TABLE": {
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "TABLE": {
+      "Provincia" : "",
+      "Oficina": "",
+      "Nombre Oficina": "",
+      "Id. Documento": "",
+      "Empresa": "TOPOX DOX S.L.",
+      "Tipo": "",
+      "Base Imponible": "",
+      "I.V.A / I.G.I.C": "",
+      "Importe Total": "",
+      "Num. Factura": "",
+      "Fecha Emisión / Prefac. / Abono": "",
+      "Estado": "",
+      "L. Venta": "",
+      "Indicador": "",
+      "selectPager": "5",
+      "validateNumRows": "5"
+    }
+  }
+}

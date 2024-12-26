@@ -1,0 +1,361 @@
+{
+  "PARTES_DE_HORAS__ALTA": {
+    "empresa": "TOPOX DOX",
+    "anio": "2024",
+    "mes": "Enero",
+    "chk_diario": "",
+    "chk_parcial": "",
+    "chk_especiales": "",
+    "chk_validado": "",
+    "TABLE1": {
+      "qbe_empresa": "TOPOX DOX",
+      "Empresa": "TOPOX DOX S.L."
+    },
+    "TABLE2": {
+      "qbe_idContrato": "9492869",
+      "qbe_colaborador": "CRUZ VARGAS, BONIFACIO",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "qbe_personalizada": "0",
+      "Id. Contrato": "9492869",
+      "Colaborador": "CRUZ VARGAS, BONIFACIO",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+      "SECTION_NOMINA": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "btn_AnadirColaboradorConceptoNomina": "__DO_CLICK__",
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto" : "RELLENAR",
+          "chk_diferencia": "true",
+          "tipo": "NO COTIZABLE",
+          "devengo": "",
+          "unidades": "10",
+          "salario": "1000",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "concepto" : "PLUS",
+            "TABLE": {
+              "qbe_conceptosDisponibles": "PENOSIDAD",
+              "Conceptos Disponibles": "(7) PLUS PENOSIDAD"
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "(7) PLUS PENOSIDAD",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "UNIDAD",
+          "qbe_unidades": "10,00",
+          "qbe_salarioUnidad": "1000,00",
+          "qbe_coeficiente": "1,669",
+          "qbe_total": "10.000,00",
+          "Concepto": "(7) PLUS PENOSIDAD",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "UNIDAD",
+          "Unidades": "10,00",
+          "Salario/Unidad": "1000,00",
+          "Coeficiente": "1,669",
+          "Total": "10.000,00"
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+      "comment": "//TODO: @GIO Esta Opción Sólo está Habilitada para Contratos con Tarifa Bruto/Mes"
+    }
+  },
+  "PARTES_DE_HORAS__CONSULTA": {
+    "empresa": "",
+    "mes": "",
+    "anio": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nif": "",
+    "chk_aNivelNacional": "",
+    "Table": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "",
+      "qbe_nif": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_mes": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_parteOriginal": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "",
+      "NIF": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Mes": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Parte Original": "",
+      "Detalle": ""
+    }
+  },
+  "PARTES_DE_HORAS__MODIFICACION": {
+    "empresa": "TOPOX DOX",
+    "anio": "2024",
+    "mes": "Mayo",
+    "chk_diario": "",
+    "chk_parcial": "true",
+    "chk_especiales": "",
+    "chk_validado": "true",
+    "TABLE1": {
+      "qbe_empresa": "TOPOX DOX",
+      "Empresa": "TOPOX DOX S.L."
+    },
+    "TABLE2": {
+      "qbe_idContrato": "9492466",
+      "qbe_colaborador": "AGESTA LUSARRETA, MAITE",
+      "qbe_diaDeInicio": "27/05/2022",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "qbe_personalizada": "0",
+      "Id. Contrato": "9492466",
+      "Colaborador": "AGESTA LUSARRETA, MAITE",
+      "Día de Inicio": "27/05/2022",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "TOPOX DOX (VILLASEQUILLA)",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+
+
+      "SECTION_NOMINA": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "btn_AnadirColaboradorConceptoNomina": "__DO_CLICK__",
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto" : "RELLENAR",
+          "chk_diferencia": "true",
+          "tipo": "NO COTIZABLE",
+          "devengo": "",
+          "unidades": "10",
+          "salario": "1000",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "concepto" : "PLUS",
+            "TABLE": {
+              "qbe_conceptosDisponibles": "PENOSIDAD",
+              "Conceptos Disponibles": "(7) PLUS PENOSIDAD"
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "(7) PLUS PENOSIDAD",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "UNIDAD",
+          "qbe_unidades": "10,00",
+          "qbe_salarioUnidad": "1000,00",
+          "qbe_coeficiente": "1,669",
+          "qbe_total": "10.000,00",
+          "Concepto": "(7) PLUS PENOSIDAD",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "UNIDAD",
+          "Unidades": "10,00",
+          "Salario/Unidad": "1000,00",
+          "Coeficiente": "1,669",
+          "Total": "10.000,00"
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+      "comment": "//TODO: @GIO Esta Opción Sólo está Habilitada para Contratos con Tarifa Bruto/Mes"
+    }
+  },
+  "PARTES_DE_HORAS__TRASPASO": {
+    "empresa": "",
+    "mes": "",
+    "anio": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nif": "",
+    "chk_partesSinTraspasar": "",
+    "chk_aNivelNacional": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "direccion": "",
+        "detalle": ""
+      }
+    },
+    "TABLE1": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_idContrato": "",
+      "qbe_oficina": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_traspasado": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "ID.Contrato": "",
+      "Oficina": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Traspasado": "",
+      "Detalle": ""
+    },
+    "TABLE2": {
+      "qbe_nParte": "",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_idContrato": "",
+      "qbe_oficina": "",
+      "qbe_colaborador": "",
+      "qbe_empresa": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_detalle": "",
+      "Nº Parte": "",
+      "Duración": "",
+      "Formato": "",
+      "ID.Contrato": "",
+      "Oficina": "",
+      "Colaborador": "",
+      "Empresa": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Detalle": ""
+    }
+  }
+}

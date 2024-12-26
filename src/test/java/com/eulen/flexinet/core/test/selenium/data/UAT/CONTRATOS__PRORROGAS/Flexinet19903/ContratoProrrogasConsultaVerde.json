@@ -1,0 +1,67 @@
+{
+  "CONTRATOS__PRORROGAS_CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "01/10/2024",
+    "fechadeInicioHasta": "30/11/2024",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Verde",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "@" : "",
+      "Status" : "",
+      "MSG Envío" : "",
+      "Info" : "",
+      "DIALOG_HISTORICODETRASPASOSAORACLE" : {
+        "TABLE1" : {
+          "qbe_Log": "497",
+          "qbe_Lote": "180",
+          "qbe_Acción" : "PRORROGA_CPD",
+          "qbe_Estado" : "ERP_OK",
+          "qbe_Estadp" : "OK",
+          "qbe_numProyect": "300000048945337",
+          "qbe_Fecha_creación": "11-09-2024 01:34:57",
+          "qbe_Fecha_actualización" : "11-09-2024 01:34:59",
+          "qbe_Fecha_Envío_a_Oracle" : "11-09-2024 01:34:59",
+          "qbe_Fecha_procesado" : "11-09-2024 12:35:45",
+          "qbe_Usuario_creador" : "3916973G",
+          "Log" : "497",
+          "Lote" : "180",
+          "Acción" : "PRORROGA_CPD",
+          "Estado" : "",
+          "Estado2" : "",
+          "numProyect" : "300000048945337",
+          "Fecha creación" : "11-09-2024 01:34:57",
+          "Fecha actualización" : "11-09-2024 01:34:59",
+          "Fecha envío a Oracle": "11-09-2024 01:34:59",
+          "Fecha procesado": "11-09-2024 12:35:45",
+          "Usuario creador": "3916973G"
+        }
+      }
+    }
+  }
+}

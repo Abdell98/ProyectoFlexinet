@@ -1,0 +1,53 @@
+{
+  "PARTES_DE_HORAS__CONSULTA": {
+    "empresa": "TOPOX DOX S.L.",
+    "mes": "Enero",
+    "anio": "2024",
+    "nombre": "BONIFACIO",
+    "primerApellido": "CRUZ",
+    "segundoApellido": "VARGAS",
+    "lkp_nif": "48620827T",
+    "DIALOG_SELECCIONDECOLABORADORES" : {
+      "TABLE" : {
+        "qbe_nombreYApellidos" : "CRUZ VARGAS, BONIFACIO",
+        "qbe_direccion" : "C/JOHN LENON, 17, BJ-, (11111), GETAFE, MADRID, ESPAÑA",
+        "Nombre y Apellidos" : "CRUZ VARGAS, BONIFACIO",
+        "Dirección" : "C/JOHN LENON, 17, BJ-, (11111), GETAFE, MADRID, ESPAÑA",
+        "Detalle" : ""
+      }
+    },
+    "chk_aNivelNacional": "false",
+    "TABLE": {
+      "qbe_nParte": "17505908",
+      "qbe_duracion": "",
+      "qbe_formato": "",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "9492869",
+      "qbe_nif": "48620827T",
+      "qbe_colaborador": "CRUZ VARGAS, BONIFACIO",
+      "qbe_empresa": "TOPOX DOX S.L.",
+      "qbe_mes": "Enero 2024",
+      "qbe_diaDeInicio": "12",
+      "qbe_diaDeFin": "13",
+      "qbe_parteOriginal": "0",
+      "qbe_detalle": "",
+      "Nº Parte": "17505908",
+      "Duración": "Mensual",
+      "Formato": "Global",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "9492869",
+      "NIF": "48620827T",
+      "Colaborador": "CRUZ VARGAS, BONIFACIO",
+      "Empresa": "TOPOX DOX S.L.",
+      "Mes": "Enero 2024",
+      "Día de Inicio": "12",
+      "Día de Fin": "13",
+      "Parte Original": "0",
+      "Detalle": ""
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "GESTION_AVANZADA__CONSULTA_AVANZADA_DE_PARTES_DE_HORAS": {
+    "empresa": "STEF IBERIA, SAU",
+    "mes": "Diciembre",
+    "anio": "2023",
+    "nombre": "JUAN ANTONIO",
+    "primerApellido": "ÁLVAREZ",
+    "segundoApellido": "DELGADO",
+    "nIF": "16282821V",
+    "lkp_nIF": "16282821V",
+    "buscarANivelNacional": "",
+    "buscar": "",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "TABLE_COLABORADORES": {
+        "qbe_nombreYApellidos": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+        "qbe_direccion": "C/FEDERICO BARAIBAR, 28, -, (1003), VITORIA GASTEIZ, ÁLAVA, ESPAÑA",
+        "Nombre y Apellidos": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+        "Dirección": "C/FEDERICO BARAIBAR, 28, -, (1003), VITORIA GASTEIZ, ÁLAVA, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE_PARTES": {
+      "qbe_nroParte": "17505771",
+      "qbe_duracion": "Mensual",
+      "qbe_formato": "Global",
+      "qbe_validado": "",
+      "qbe_traspasado": "",
+      "qbe_facturado": "",
+      "qbe_idContrato": "9492093",
+      "qbe_nIF": "16282821V",
+      "qbe_colaborador": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+      "qbe_empresa": "STEF IBERIA, SAU",
+      "qbe_mes": "Diciembre 2023",
+      "qbe_diaDeInicio": "1",
+      "qbe_diaDeFin": "31",
+      "qbe_parteOriginal": "0",
+      "Nº Parte": "17505771",
+      "Duración": "Mensual",
+      "Formato": "Global",
+      "Validado": "",
+      "Traspasado": "",
+      "Facturado": "",
+      "Id. Contrato": "9492093",
+      "NIF": "16282821V",
+      "Colaborador": "ÁLVAREZ DELGADO, JUAN ANTONIO",
+      "Empresa": "STEF IBERIA, SAU",
+      "Mes": "Diciembre 2023",
+      "Día de Inicio": "1",
+      "Día de Fin": "31",
+      "Parte Original": "0",
+      "Detalle": ""
+    }
+  },
+  "PARTES_DE_HORAS__ALTA": {
+    "empresa": "",
+    "anio": "",
+    "mes": "",
+    "chk_diario": "",
+    "chk_parcial": "",
+    "chk_especiales": "",
+    "chk_validado": "true",
+    "TABLE1": {
+      "qbe_empresa": "",
+      "Empresa": ""
+    },
+    "TABLE2": {
+      "qbe_idContrato": "",
+      "qbe_colaborador": "",
+      "qbe_diaDeInicio": "",
+      "qbe_diaDeFin": "",
+      "qbe_motivoDeBaja": "",
+      "qbe_centroDeTrabajo": "",
+      "qbe_personalizada": "",
+      "Id. Contrato": "",
+      "Colaborador": "",
+      "Día de Inicio": "",
+      "Día de Fin": "",
+      "Motivo de Baja": "",
+      "Centro de Trabajo": "",
+      "Personalizada": ""
+    },
+    "TAB_PARTEDEHORAS": {
+
+
+      "SECTION_NOMINA": {
+        "horasNormales": "1",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "1",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "1",
+        "it": "",
+        "total": ""
+      },
+      "SECTION_FACTURACION": {
+        "horasNormales": "",
+        "horasExtras": "",
+        "horasFestivas": "",
+        "horasNocturnas": "",
+        "horasComplementarias": "",
+        "horasPermisoRetribuido": "",
+        "it": "",
+        "total": ""
+
+      }
+    },
+    "TAB_CONCEPTOSIT": {
+      "SECTION_NOMINA": {
+        "concepto": "",
+        "de": "",
+        "a": "",
+        "horasTotales": ""
+      }
+    },
+    "TAB_CONCEPTOSCOLABORADOR": {
+      "SECTION_NOMINA": {
+        "btn_AnadirColaboradorConceptoNomina": "",
+        "DIALOG_ALTACONCEPTOCOLABORADORNOMINA": {
+          "lkp_concepto" : "",
+          "chk_diferencia": "",
+          "tipo": "",
+          "devengo": "",
+          "unidades": "10",
+          "salario": "1000",
+          "coeficiente": "",
+          "total": "",
+          "DIALOG_LISTADODECONCEPTOS": {
+            "concepto" : "",
+            "TABLE": {
+              "qbe_conceptosDisponibles": "",
+              "Conceptos Disponibles": ""
+            }
+          }
+        },
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Total": ""
+        }
+      },
+      "SECTION_FACTURACION": {
+        "TABLE": {
+          "qbe_concepto": "",
+          "qbe_diferencia": "",
+          "qbe_tipo": "",
+          "qbe_devengo": "",
+          "qbe_unidades": "",
+          "qbe_salarioUnidad": "",
+          "qbe_coeficiente": "",
+          "qbe_precioUnidad": "",
+          "qbe_total": "",
+          "Concepto": "",
+          "Diferencia": "",
+          "Tipo": "",
+          "Devengo": "",
+          "Unidades": "",
+          "Salario/Unidad": "",
+          "Coeficiente": "",
+          "Precio/Unidad": "",
+          "Total": ""
+        }
+      }
+    },
+    "TAB_ABSENTISMOFALTAS": {
+      "comment": "//TODO: @GIO Esta Opción Sólo está Habilitada para Contratos con Tarifa Bruto/Mes"
+    }
+  }
+}

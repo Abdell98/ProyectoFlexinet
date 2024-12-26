@@ -1,0 +1,38 @@
+{
+  "CONTRATOS__PRORROGAS_CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "01/01/2020",
+    "fechadeInicioHasta": "01/01/2021",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Azul",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  }
+}

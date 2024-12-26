@@ -1,0 +1,37 @@
+{
+  "CONTRATOS__TRASPASO_MASIVO": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "10892460M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9493083",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+      "qbe_direccion": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "MARTINEZ ANTUÑA, JUAN CARLOS",
+        "Dirección": "C/MONSACRO, 30, D-3º, (33211), GIJON, ASTURIAS, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "9493083",
+      "Empresa": "",
+      "NIF": "",
+      "Colaborador": "MARTINEZ ANTUÑA, JUAN CARLOS",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Seleccionar": true
+    }
+  }
+}

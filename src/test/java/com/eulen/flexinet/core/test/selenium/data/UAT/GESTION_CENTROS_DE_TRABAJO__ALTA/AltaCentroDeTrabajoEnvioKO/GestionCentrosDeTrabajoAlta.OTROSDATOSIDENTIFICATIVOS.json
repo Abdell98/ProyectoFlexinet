@@ -1,0 +1,14 @@
+{
+  "nombreEmpresa" : "ARKOPHARMA LABORATORIOS S.A.U.",
+  "tipoVia" : "CALLE",
+  "nombreDireccion" : "TEST ST",
+  "localidad" : "VALLECAS",
+  "provincia" : "MADRID",
+  "cP" : "28000",
+  "medioDeCaptacion" : "PROSPECCION",
+  "telefono" :  "91-5271512",
+  "convColectivoEmpresaUsuaria" :  "CONV.NAC.DIST.ESP.PRODUCTOS FARMACEUTICOS",
+  "bOE" : "99001115011981",
+  "clausuladoDelContratoLaboral" : "CONTRATO LABORAL",
+  "clausuladoDelCPD" :  "CPD 2011"
+}

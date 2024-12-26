@@ -1,0 +1,27 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "MARIA PRADO",
+      "primerApellido": "TORRES",
+      "segundoApellido": "GUTIERREZ",
+      "dNI": " ",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "VALENCIA",
+        "elegirOcupacion": "PERSONAL DE LIMPIEZA DE OFICINAS, HOTELES Y OTROS ESTABLECIMIENTOS SIMILARES",
+        "seleccionarTitulacion": "CERTIFICADO EDUCACION PRIMARIA (LOGSE)",
+        "sexo": "Mujer"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "qbe_nombreYApellidos": "",
+          "qbe_direccion": "",
+          "qbe_detalle": "",
+          "Nombre y Apellidos": "TORRES GUTIERREZ, MARIA PRADO",
+          "Dirección": "AVDA.RAMÓN Y CAJAL, 1, 8-4, (46930), QUART DE POBLET, VALENCIA, ESPAÑA",
+          "Detalle": ""
+        }
+      }
+    }
+  }
+}

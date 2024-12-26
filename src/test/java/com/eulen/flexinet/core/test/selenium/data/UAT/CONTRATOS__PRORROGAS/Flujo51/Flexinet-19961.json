@@ -1,0 +1,46 @@
+{
+  "CONTRATOS__PRORROGAS_ANULACION": {
+    "empresa": "MAXIMO GAVIRA, S.A.",
+    "lkp_empresa": "RELLENAR",
+    "nContrato": "",
+    "nombre": "ANA BELEN",
+    "primerApellido": "BLANCA",
+    "segundoApellido": "RICO",
+    "nIF": "77330419A",
+    "lkp_nIF": "RELLENAR",
+    "fechadeInicioDesde": "01/01/2024",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "MAXIMO GAVIRA, S.A.",
+      "qbe_nIF" : "A11051299",
+      "TABLE": {
+        "Empresa": "MAXIMO GAVIRA, S.A.",
+        "N.I.F.": "A11051299"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "BLANCA RICO, ANA BELEN",
+      "qbe_direccion": "URVILLA VICTORIA, 4, -, (11313), SAN ROQUE, CADIZ, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "BLANCA RICO, ANA BELEN",
+        "Dirección": "URVILLA VICTORIA, 4, -, (11313), SAN ROQUE, CADIZ, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec.": "",
+      "Colaborador": "",
+      "Seg. Social": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "CONTRATOS__CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "53423827W",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9493574",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Verde",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "LAZARO PEREZ, LAURA",
+      "qbe_direccion": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "PEREDA PIEROLA, ANA BELEN",
+        "Dirección": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "DIALOG_SELECCIONDETALLEDELCONTRATO": {
+      "traspasarErp": "Traspasar a Erp"
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo": "",
+      "Codigo Contrato": "",
+      "Colaborador": "LAZARO PEREZ, LAURA",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "9493574",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  },
+  "CONTRATOS__BAJA_DARDEBAJA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "53423827W",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9493574",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "LAZARO PEREZ, LAURA",
+      "qbe_direccion": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "PEREDA PIEROLA, ANA BELEN",
+        "Dirección": "C/ALCARRIA, 56, -, (28915), MADRID, MADRID, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "9493574",
+      "Empresa": "",
+      "NIF": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Colaborador": "LAZARO PEREZ, LAURA",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Máximo Días Vacaciones": "",
+      "Embargos": ""
+    },
+    "DIALOG_DARDEBAJA": {
+      "motivoDeLaBaja": "BAJA VOLUNTARIA",
+      "fecha": "%PLUS5%"
+    }
+  },
+  "CONTRATOS__ALTA_SUSTITUCION": {
+    "nombre": "JUAN MANUEL",
+    "primerApellido": "SANTOS",
+    "segundoApellido": "BENEIT",
+    "nIF": "12776524R",
+    "lkp_nIF": "RELLENAR",
+    "sexo": "Hombre",
+    "fechaInicioSustitucion": "%PLUS5%",
+    "DIALOG_PERFILDATOUNICO": {
+      "elegirPaisDeNacionalidad": "ESPAÑA",
+      "elegirMpioResidencia": "MADRID",
+      "elegirOcupacion": "LIMPIADORES DE VENTANAS",
+      "seleccionarTitulacion": "RECLASIFICAR. GRADUADO ESCOLAR, EDUCACION SECUNDARIA",
+      "sexo": "Hombre"
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "SANTOS BENEIT, JUAN MANUEL",
+      "qbe_direccion": "C/IGNACIO MARTÍNEZ DE AZCOITIA, 21, B-1, (34001), PALENCIA, PALENCIA, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+        "Dirección": "C/IGNACIO MARTÍNEZ DE AZCOITIA, 21, B-1, (34001), PALENCIA, PALENCIA, ESPAÑA",
+        "Detalle": ""
+      }
+    }
+  }
+}

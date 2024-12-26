@@ -1,0 +1,263 @@
+{
+  "GESTION_EMPRESAS_CLIENTE__CONSULTA" : {
+    "razonSocialEmpresa" : "ARTECONFORT HOTEL, S.L.",
+    "nIFempresa" : "B87621975",
+    "ventas" :  "500.000 - 1.000.000",
+    "provincia" : "TOLEDO",
+    "rangoDeEmpleados" :  "11-50",
+    "codigoPostal" : "45224",
+    "chk_LaEmpresaProvieneDeMarketing" :  "false",
+    "date_Desde" : "",
+    "date_Hasta" : "",
+    "radio_realizarBusquedaANivelNacional_si" : "true",
+    "radio_realizarBusquedaANivelNacional_no" :  "true",
+    "TABLE" : {
+      "qbe_nombreEmpresa" : "ARTECONFORT HOTEL, S.L.",
+      "qbe_nIFEmpresa" : "B87621975",
+      "qbe_direccion" :  "CARRETERA ANDALUCIA, 6 KM 35700",
+      "qbe_provincia" : "TOLEDO",
+      "qbe_cP" :  "45224",
+      "qbe_nombreContacto" : "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "qbe_cargoContacto" : "DIRECTOR GENERAL",
+      "qbe_telefonoContacto" : "91-8013536",
+      "qbe_cNAE" : "Comercio al por mayor no especializado",
+      "qbe_ventas" : "500.000 - 1.000.000",
+      "qbe_rangoEmpleados" :  "11-50",
+      "qbe_responsable" : "BEATRIZ RODRIGUEZ NAVARRO",
+      "qbe_nombreOficina" :  "442-FLX-GETAFE",
+      "Nombre Empresa": "ARTECONFORT HOTEL, S.L.",
+      "NIF Empresa": "B87621975",
+      "Dirección": "CARRETERA ANDALUCIA, 6 KM 35700",
+      "Provincia": "TOLEDO",
+      "CP": "45224",
+      "Nombre Contacto": "FARANCISCO JAVIER ZORRILLA LOZANO",
+      "Cargo Contacto": "DIRECTOR GENERAL",
+      "Teléfono Contacto": "91-8013536",
+      "C.N.A.E.": "Comercio al por mayor no especializado",
+      "Ventas": "500.000 - 1.000.000",
+      "Rango Empleados": "11-50",
+      "Responsable": "BEATRIZ RODRIGUEZ NAVARRO",
+      "Nombre Oficina": "442-FLX-GETAFE"
+    }
+  },
+  "GESTION_EMPRESAS_CLIENTE__MODIFICAR": {
+    "TAB_DATOSRIESGOS": {
+      "lkp_cif": "B87621975",
+      "estado": "Registrada",
+      "razonSocial": "ARTECONFORT HOTEL, S.L.",
+      "razonSocialFactura": "ARTECONFORT HOTEL, S.L.",
+      "margenBruto": "17,50",
+      "limiteRiesgo": "1,00",
+      "medioDePago": "TALON",
+      "formaDePago": "A 30 DÍAS",
+      "DIALOG_SELECCIONEEMPRESA": {
+        "razonSocial": "",
+        "TABLE": {
+          "qbe_nombreEmpresa": "",
+          "qbe_direccion": "",
+          "qbe_provincia": "",
+          "qbe_nifEmpresa": "",
+          "qbe_cnae": "",
+          "qbe_responsable": "",
+          "Nombre Empresa": "",
+          "Dirección": "",
+          "Provincia": "",
+          "NIF Empresa": "",
+          "C.N.A.E.": "",
+          "Responsable": ""
+        }
+      }
+    },
+    "TAB_IDENTIFICATIVOS": {
+      "siglas": "TEST EDIT",
+      "chk_clientesNacional": "false",
+      "chk_facturaGlobalizada": "false",
+      "chk_envioCPD": "false",
+      "chk_envioFacturaDigital": "false",
+      "chk_rappel_Checkbox": "false",
+      "rappel_input": "0",
+      "tipo_DomicilioSocial": "CARRETERA",
+      "direccion_DomicilioSocial": "ANDALUCIA, 6 KM 35700",
+      "localidad_DomicilioSocial": "SESEÑA",
+      "provincia_DomicilioSocial": "TOLEDO",
+      "cP_DomicilioSocial": "45224",
+      "tipo_DomicilioFiscal": "CALLE",
+      "direccion_DomicilioFiscal": "HORMERO  Nº30 ESC 1 PUERTA1",
+      "localidad_DomicilioFiscal": "MADRID",
+      "provincia_DomicilioFiscal": "MADRID",
+      "cP_DomicilioFiscal": "28340",
+      "bOE": "",
+      "medioDeCapt": "PROSPECCION",
+      "oficinaOrigenDelContrato1": "",
+      "oficinaOrigenDelContrato2": "",
+      "respDeCuenta": "BEATRIZ RODRIGUEZ NAVARRO",
+      "telefono": "91-8013536",
+      "paginaWeb": "www.test.test",
+      "observaciones": "test gio",
+      "lkp_convColectivoEmpresaUsuaria": "CONV.COLECTIVO  DE COMERCIO GENERAL",
+      "DIALOG_BUSQUEDADECONVENIOS": {
+        "nombre": "CONV. COLECT. GRUPO SABECO",
+        "TABLE": {
+          "qbe_nombre": "CONV. COLECT. GRUPO SABECO",
+          "Nombre": "CONV. COLECT. GRUPO SABECO"
+        }
+      }
+    },
+    "TAB_DATOSECONOMICOS": {
+      "impuestosTipoPorcentaje": "",
+      "diasFijosDePago1": "27",
+      "diasFijosDePago2": "30",
+      "numeroDeCliente": "",
+      "banco": "",
+      "entidad": "",
+      "sucursal": "",
+      "dC": "",
+      "nCuenta": "",
+      "iBANPais": "",
+      "iBANDC": "",
+      "iBANExtranjero": "",
+      "chk_personalizable": "",
+      "tipo": "CALLE",
+      "nombre_DireccionFactura": "HORMERO, 30 ESC 1 PUERTA 1",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "cP": "28340",
+      "destinatario": "",
+      "clausuladoDelContratoLaboral": "CONTRATO LABORAL",
+      "clausuladoDelCPD": "CPD 2011",
+      "contacto": "JUSTO",
+      "nIF": "57141396N",
+      "nombre_Contacto": "MARIA",
+      "apellidos1": "LATORRE",
+      "apellidos2": "TORRES",
+      "cargo": "QA",
+      "telf1": "666555444",
+      "telf2": "666888444",
+      "email": "gczamorano@ayesa.com",
+      "chk_firmanteCPDPRLPersonalizable": "true",
+      "btn_anadirContacto" : "%DO_CLICK%",
+      "TABLE" : {
+        "qbe_nombreYApellidos": "MARIA LATORRE TORRES",
+        "qbe_nif": "57141396N",
+        "qbe_cargo": "QA",
+        "qbe_telefono": "66-6555444",
+        "qbe_fax": "66-6888444",
+        "qbe_email": "gczamorano@ayesa.com",
+        "Nombre y Apellidos" :  "MARIA LATORRE TORRES",
+        "NIF" : "57141396N",
+        "Cargo" :  "QA",
+        "Teléfono" : "66-6555444",
+        "Fax" :  "66-6888444",
+        "E-mail" : "gczamorano@ayesa.com",
+        "Firm. CPD" :  "",
+        "Firm. PRL" : "",
+        "Contacto Ppal." :  "",
+        "Resp. Pago" : ""
+      }
+    },
+    "TAB_CATEGORIASEGURIDADSOCIAL": {
+      "btn_anadirCategoria" : "",
+      "lkp_categoriaLaboral": "* APRENDIZ",
+      "regimenDeLaSegSocial": "REGIMEN GENERAL",
+      "lkp_categoriaProfesional": "Of 1ª CHOFER CAMION EXTRAVIAL",
+      "chk_prlPersonalizable": "",
+      "TABLE" : {
+        "qbe_categoriaLaboral" : "",
+        "qbe_categoriaProfesional" :"",
+        "qbe_regimenesSegSocial" : "",
+        "qbe_fichaPrl" :"",
+        "qbe_personalizable" : "",
+        "qbe_cursosPrl" :"",
+        "qbe_personalizablePrl" : "",
+        "qbe_recMedico" :"",
+        "Categoría Laboral" :  "",
+        "Categoría Profesional" : "",
+        "Regímenes Seg. Social" :  "",
+        "Ficha PRL" : "",
+        "¿Personalizable?" :  "",
+        "Cursos PRL" : "",
+        "¿Personalizable PRL?" :  "",
+        "Rec. Médico" : ""
+      },
+      "DIALOG_BUSQUEDADECATEGORIASLABORALES": {
+        "nombre": "APRENDIZ",
+        "TABLE": {
+          "qbe_codigo": "9159",
+          "qbe_categoriaLaboral": "* APRENDIZ",
+          "Código": "9159",
+          "Categoría Laboral": "* APRENDIZ"
+        }
+      },
+      "DIALOG_BUSQUEDADECATEGORIASPROFESIONALES": {
+        "nombre": "Of 1ª CHOFER CAMION EXTRAVIAL",
+        "TABLE": {
+          "qbe_codigo": "7755",
+          "qbe_categoriaProfesional": "Of 1ª CHOFER CAMION EXTRAVIAL",
+          "Código": "7755",
+          "Categoría Profesional": "Of 1ª CHOFER CAMION EXTRAVIAL"
+        }
+      },
+      "DIALOG_FICHAPRLDELACATEGORIA": {
+        "caracteristicasDelPuestoDeTrabajoYTareasADesarrollar": "",
+        "riesgosDelCentro": "",
+        "riesgosDelPuestoDeTrabajoFichasDeDatosDeSeguridadFichasTecnicasDeEquiposDeTrabajoYMaquinaria": "",
+        "medidasPreventivas": "",
+        "equiposDeProteccion": "",
+        "Observaciones": ""
+      }
+    },
+    "TAB_RETRATOROBOT": {
+      "lkp_actividad": "COMERCIOS",
+      "lkp_cNAE": "Comercio al por mayor no especializado",
+      "lkp_sIC": "Industria de la madera",
+      "ventas": "500.000 - 1.000.000",
+      "nEmpleados": "11-50",
+      "chk_porTiposDeHoras": "false",
+      "chk_facturaGlobalizada" : "",
+      "chk_porCentrosDeTrabajo": "false",
+      "chk_porCategoriaProfesional": "false",
+      "chk_mostrarPrecioUnidad": "false",
+      "chk_porColaborador": "false",
+      "chk_colaboradorConcepto": "false",
+      "chk_mostrarMinFInicioMaxFFinPartes": "false",
+      "chk_porDuracionDelContrato5Dias5Dias": "false",
+      "chk_porDepartamentoAlQueSeIncorporaraElColaboradorEnElCentroDeTrabajo": "false",
+      "chk_porNumeroDeColaboradores": "true",
+      "numeroMaximoDeColaboradoresEnFactura": "10",
+      "chk_porImporteGlobal": "false",
+      "importeMaximoPorFacturaImporteCorrespondienteIncluido": "",
+      "chk_elTipoDeFacturacionEsPersonalizable": "true",
+      "DIALOG_BUSQUEDADEACTIVIDAD": {
+        "id": "2",
+        "nombre": "ADMINISTRACION AUTONOMICA",
+        "TABLE": {
+          "qbe_idActividad": "2",
+          "qbe_actividad": "ADMINISTRACION AUTONOMICA",
+          "ID Actividad": "2",
+          "Actividad": "ADMINISTRACION AUTONOMICA"
+        }
+      },
+      "DIALOG_BUSQUEDADECNAE": {
+        "id": "94",
+        "nombre": "Actividades asociativas",
+        "grupo": "Otros servicios",
+        "TABLE": {
+          "qbe_idCnae": "94",
+          "qbe_cnae": "Actividades asociativas",
+          "ID CNAE": "94",
+          "CNAE": "Actividades asociativas"
+        }
+      },
+      "DIALOG_BUSQUEDADESIC": {
+        "id": "01",
+        "nombre": "Agricultura",
+        "TABLE": {
+          "qbe_idSic": "01",
+          "qbe_sic": "Agricultura",
+          "ID SIC": "01",
+          "SIC": "Agricultura"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "CONTRATOS__PRORROGAS_ANULACION": {
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "nContrato": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": true,
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "CORTES DE CASTILLA Y LEON",
+      "qbe_nIF" : "S4733001D",
+      "TABLE": {
+        "Empresa": "CORTES DE CASTILLA Y LEON",
+        "N.I.F.": "S4733001D"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  }
+}

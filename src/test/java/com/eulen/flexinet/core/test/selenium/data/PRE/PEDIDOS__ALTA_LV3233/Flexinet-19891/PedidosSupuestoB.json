@@ -1,0 +1,118 @@
+{
+  "PEDIDOS__ALTA_SIMPLE": {
+    "TAB_DATOSDELPEDIDO": {
+      "nPedido": "604795473",
+      "nPedidoAuxiliar": "",
+      "tCont": "AG. COLOCACIÓN - LV 32",
+      "clausulas": "AG.COLOCACIÓN GENERICO",
+      "convenio": "CONVENIO SEPE",
+      "centrosDeTrabajo": "TRANSPORTES URLOMAR_57980",
+      "supuestoCelebracion": "LETRA (B) DEL APTDO. 2 DEL ART. 6 DE LA LEY 14/94",
+      "existeConvColectQuePermitaContratosDe6A12MesesEnUnPeriodoDe18": "",
+      "sustitucionDelTrabajador": "",
+      "motivoDeSustitucion": "",
+      "elLaTrabajadoraEstaEnPosesionDelTitulo": "",
+      "elLaTrabajadoraAcreditaConLaCertificacionPor": "",
+      "certificadoProfesional": "",
+      "desempleadoYMenor30Anos": "",
+      "desempleadoYMenor35AnosYConDiscapacSup30": "",
+      "menor30AnosRealizarPracticasNoLaboralesRD15432011": "",
+      "haberTerminadoLosEstudiosQueLeCapacitanParaLaPracticaObjetoDeDichoContratoConFecha": "",
+      "descripcion": "test descripcion",
+      "contratacionMenos100": "true",
+      "fechaPrevistaDeInicio": "%TODAY%",
+      "fechaPrevistaDeFin": "__PLUS15__",
+      "rad_previsible": "true",
+      "rad_imprevisible": "false",
+      "avalNecesario": "true",
+      "importeDelAval": "0",
+      "observaciones": "test observaciones",
+      "DIALOG_SELECCIONDEEMPRESA": {
+        "empresa": "TRANSPORTES URLOMAR",
+        "nIF": "B09015553",
+        "nCliente": "",
+        "TABLE": {
+          "N.I.F.": "B09015553",
+          "Empresa": "TRANSPORTES URLOMAR",
+          "Nº Cliente": "",
+          "Estado": "",
+          "Forma de Pago": "",
+          "Comportamiento de pago": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DATOSDEJORNADA": {
+      "departamento": "TEST",
+      "nCandidatosAsignados": "1",
+      "nCandidatosSolicitados": "1",
+      "diasTrabajadosALaSemana": "5",
+      "horasNormalesDiarias": "6:00",
+      "periodoDePrueba": "15",
+      "porcentajeJornada": "80",
+      "diasDeTrabajoSemanales": "true,true,true,true,true,false,false",
+      "horario": "tarde y noche",
+      "aTurnos": "true",
+      "turno": "tarde"
+    },
+    "TAB_DATOSDETARIFA": {
+      "oferta": "",
+      "categoriaLaboral": "",
+      "categoriaProfesional": "PEON / PEON IN. / REGIMEN GENERAL",
+      "seleccioneDuracionYTipoDeJornadaDeLaTarifa": "Duración Mayor de Cinco Días y Jornada Completa",
+      "tarifaNormal": "false",
+      "tarifaIgualOInferior5Dias": "true",
+      "compPago": "Por Horas",
+      "grupoCotizacion": "10 Peones",
+      "ocupacion": "",
+      "brutoMensual": "",
+      "bonificacion": "",
+      "fechaInicio": "",
+      "fechaFin": "",
+      "previsionarCompensacionFinContrato": ""
+    },
+    "TAB_DATOSCOLABORADORES": {
+      "nombre": "Juan Manuel",
+      "primerApellido": "Santos",
+      "segundoApellido": "Beneit",
+      "dNI": "12776524R",
+      "DIALOG_PERFILDATOUNICO": {
+        "elegirPaisDeNacionalidad": "ESPAÑA",
+        "elegirMpioResidencia": "MADRID",
+        "elegirOcupacion": "LIMPIADORES DE VENTANAS",
+        "seleccionarTitulacion": "RECLASIFICAR. GRADUADO ESCOLAR, EDUCACION SECUNDARIA",
+        "sexo": "Hombre"
+      },
+      "DIALOG_SELECCIONDECOLABORADORES": {
+        "TABLE": {
+          "Nombre y Apellidos": "SANTOS BENEIT, JUAN MANUEL",
+          "Dirección": "",
+          "Detalle": ""
+        }
+      }
+    },
+    "TAB_DESGLOSEDECATEGORIAPROFESIONAL": {
+      "TABLE": {
+        "Salario Bruto": "",
+        "Salarial": "10",
+        "Extrasal.": "12",
+        "Plus Salarial": "14",
+        "Plus Extrasal.": "12",
+        "Seguridad Social": "",
+        "Formación + Com. Parit.": "",
+        "Indemniz. Fin Contrato": "",
+        "Revisión Coste": "",
+        "Médica %": "",
+        "Otros": "",
+        "Coste Total": "",
+        "Margen Bruto %": "",
+        "P.V.P.": ""
+      }
+    },
+    "DIALOG_SOLICITUDDEFECHADEALTADELCONTRATO": {
+      "introduzcaLaFechaDeAntiguedadDelContrato": "%TODAY%",
+      "rad_RealizandoElTraspasoDeLosContratos": "true",
+      "rad_SinTraspasarLosContratos": "false"
+    }
+  }
+}

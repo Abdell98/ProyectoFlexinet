@@ -1,0 +1,510 @@
+{
+  "CONTRATOS__ANULACION": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__BAJA_DARDEBAJA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Colaborador": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Máximo Días Vacaciones": "",
+      "Embargos": ""
+    },
+    "DIALOG_DARDEBAJA": {
+      "motivoDeLaBaja": "",
+      "fecha": ""
+    }
+  },
+  "CONTRATOS__BAJA_CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "colorSemaforo": "Azul",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo" : "",
+      "Codigo Contrato": "",
+      "Colaborador": "",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  },
+  "CONTRATOS__BAJA_ANULACION": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo" : "",
+      "Codigo Contrato": "",
+      "Colaborador": "",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  },
+  "CONTRATOS__BAJA_BAJAS_MASIVAS": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec.": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Seleccionar": true
+    },
+    "DIALOG_BAJAMASIVACONTRATO": {
+      "fecha": ""
+    }
+  },
+  "CONTRATOS__TRASPASO_MASIVO": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": "",
+      "Seleccionar" : true
+    }
+  },
+  "CONTRATOS__CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Azul",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo" : "",
+      "Codigo Contrato": "",
+      "Colaborador": "",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  },
+  "CONTRATOS__NOVACION_ALTA": {
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "",
+      "qbe_nIF": "",
+      "TABLE": {
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__PRORROGAS_ANULACION": {
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "nContrato": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": true,
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "",
+      "qbe_nIF" : "",
+      "TABLE": {
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__PRORROGAS_CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "colorSemaforo": "Azul",
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__PRORROGAS_ALTA": {
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": true,
+    "fechaDeFinalizacionProrroga": "",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "",
+      "qbe_nIF" : "",
+      "TABLE": {
+        "Empresa": "",
+        "N.I.F.": ""
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Seleccionar": "",
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__TRASPASOS_MASIVOS": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "buscarANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "",
+      "qbe_direccion": "",
+      "TABLE": {
+        "Nombre y Apellidos": "",
+        "Dirección": "",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Colaborador": "",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  }
+}

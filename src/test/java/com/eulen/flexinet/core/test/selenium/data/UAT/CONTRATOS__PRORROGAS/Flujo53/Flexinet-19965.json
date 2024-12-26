@@ -1,0 +1,107 @@
+{
+  "CONTRATOS__PRORROGAS_ALTA": {
+    "empresa": "",
+    "lkp_empresa": "RELLENAR",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "10892460M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "",
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechaDeFinDesde": "",
+    "fechaDeFinHasta": "",
+    "busquedaANivelNacional": true,
+    "fechaDeFinalizacionProrroga": "26/06/2024",
+    "DIALOG_SELECCIONDEEMPRESA": {
+      "qbe_empresaCliente": "TRANSPORTES IZALNERA SL.",
+      "qbe_nIF": "B86617370",
+      "TABLE": {
+        "Empresa": "TRANSPORTES IZALNERA SL.",
+        "N.I.F.": "B86617370"
+      }
+    },
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "ACEDO JIMENEZ, SAMUEL",
+      "qbe_direccion": "AVDA.PUERTA DEL SUR 4 3F, 4, -, (11406), JEREZ DE LA FRONTERA, CADIZ, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "ACEDO JIMENEZ, SAMUEL",
+        "Dirección": "AVDA.PUERTA DEL SUR 4 3F, 4, -, (11406), JEREZ DE LA FRONTERA, CADIZ, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "TABLE": {
+      "Seleccionar": "",
+      "Nº Contrato": "",
+      "Empresa": "",
+      "NIF": "",
+      "Sec": "",
+      "Colaborador": "ACEDO JIMENEZ, SAMUEL",
+      "Seguridad Social": "",
+      "Fec. Inicio": "",
+      "Fec. Fin": "",
+      "Fec. Antigüedad": ""
+    }
+  },
+  "CONTRATOS__CONSULTA": {
+    "empresa": "",
+    "nCliente": "",
+    "nombre": "",
+    "primerApellido": "",
+    "segundoApellido": "",
+    "nIF": "10892460M",
+    "lkp_nIF": "RELLENAR",
+    "nContrato": "9861004",
+    "secuencial": "",
+    "generados": true,
+    "traspasados": false,
+    "activos": false,
+    "bajas": false,
+    "conProrrogas": false,
+    "novacion": false,
+    "llamamiento": false,
+    "ceseVoluntario": false,
+    "fechadeInicioDesde": "",
+    "fechadeInicioHasta": "",
+    "fechadeFinDesde": "",
+    "fechadeFinHasta": "",
+    "busquedaANivelNacional": false,
+    "DIALOG_SELECCIONDECOLABORADORES": {
+      "qbe_nombreYApellidos": "ACEDO JIMENEZ, SAMUEL",
+      "qbe_direccion": "AVDA.PUERTA DEL SUR 4 3F, 4, -, (11406), JEREZ DE LA FRONTERA, CADIZ, ESPAÑA",
+      "TABLE": {
+        "Nombre y Apellidos": "ACEDO JIMENEZ, SAMUEL",
+        "Dirección": "AVDA.PUERTA DEL SUR 4 3F, 4, -, (11406), JEREZ DE LA FRONTERA, CADIZ, ESPAÑA",
+        "Detalle": ""
+      }
+    },
+    "DIALOG_SELECCIONDETALLEDELCONTRATO": {
+      "traspasarErp": "Traspasar a Erp"
+    },
+    "TABLE": {
+      "@": "",
+      "AF": "",
+      "Activo": "",
+      "Codigo Contrato": "",
+      "Colaborador": "ACEDO JIMENEZ, SAMUEL",
+      "Fec. Antigüedad": "",
+      "Fec. Fin": "",
+      "Fec. Inicio": "",
+      "L. Venta": "",
+      "MSG Envío": "",
+      "Motivo Baja": "",
+      "NIF": "",
+      "Nº Contrato": "9861004",
+      "Nº Proyecto": "",
+      "Oficina": "",
+      "Prev/Imprev": "",
+      "Sec.": "",
+      "Seguridad Social": "",
+      "Status": "",
+      "Tipo Contrato": "",
+      "Empresa": ""
+    }
+  }
+}
